@@ -430,7 +430,7 @@
         },
         "lie": {
             "real_reason_c": "Diamon prefers minimalism and feels that shopping with others might lead to buying more items than originally intended",
-            "lie_c": "Diamon says they've been thinking about taking it easy tonight",
+            "lie_c": "Diamon has been thinking about taking it easy tonight",
             "truth_c": "",
             "falsification": null
         },
@@ -506,7 +506,7 @@
         },
         "lie": {
             "real_reason_c": "Athene prefers minimalism and feels that shopping with others might lead to buying more items than originally intended",
-            "lie_c": "Athene says they've been thinking about taking it easy tonight",
+            "lie_c": "Athene has been thinking about taking it easy tonight",
             "truth_c": "Athene has been considering whether to go shopping tonight",
             "falsification": false
         },
@@ -536,8 +536,8 @@
             "leave_reason_D_2": "have to briefly troubleshoot my internet connection"
         },
         "relationship": "friends",
-        "muiltiple_liar": true,
-        "muiltiple_target": false,
+        "multiple_liar": true,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Lucrezia",
@@ -547,7 +547,7 @@
         },
         "lie": {
             "real_reason_c": "Lucrezia and Princess don't like Andruw's fashion taste, but they think it would be rude to say that to Andruw's face, so trying to avoid the situation",
-            "lie_c": "Lucrezia and Princess says they will stay late at work tomorrow night",
+            "lie_c": "Lucrezia and Princess will stay late at work tomorrow night",
             "truth_c": "",
             "falsification": null
         },
@@ -577,8 +577,8 @@
             "leave_reason_D_2": "need to take care of some personal matters"
         },
         "relationship": "friends",
-        "muiltiple_liar": true,
-        "muiltiple_target": false,
+        "multiple_liar": true,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Junia",
@@ -588,7 +588,7 @@
         },
         "lie": {
             "real_reason_c": "Junia and Akaylah don't like Cordell's fashion taste, but they think it would be rude to say that to Cordell's face, so trying to avoid the situation",
-            "lie_c": "Junia and Akaylah says they will stay late at work tomorrow night",
+            "lie_c": "Junia and Akaylah will stay late at work tomorrow night",
             "truth_c": "Junia and Akaylah will go shopping tomorrow night",
             "falsification": true
         },
@@ -618,8 +618,8 @@
             "leave_reason_D_2": "need to check my emails quickly"
         },
         "relationship": "friends",
-        "muiltiple_liar": true,
-        "muiltiple_target": false,
+        "multiple_liar": true,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Harrel",
@@ -629,7 +629,7 @@
         },
         "lie": {
             "real_reason_c": "Harrel and Jamond don't like Alencia's fashion taste, but they think it would be rude to say that to Alencia's face, so trying to avoid the situation",
-            "lie_c": "Harrel and Jamond says they will stay late at work tomorrow night",
+            "lie_c": "Harrel and Jamond will stay late at work tomorrow night",
             "truth_c": "Harrel and Jamond are thinking chill for tomorrow night",
             "falsification": false
         },
@@ -659,8 +659,8 @@
             "leave_reason_D_2": "need to submit some papers"
         },
         "relationship": "coworkers",
-        "muiltiple_liar": true,
-        "muiltiple_target": false,
+        "multiple_liar": true,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Denishia",
@@ -670,7 +670,7 @@
         },
         "lie": {
             "real_reason_c": "Denishia and Alvin don't like Shiela's decoration style for home, so they do not want to buy home stuff with Shiela because it would be rude to say that to Shiela's face",
-            "lie_c": "Denishia and Alvin says they’re tied up this weekend",
+            "lie_c": "Denishia and Alvin are tied up this weekend",
             "truth_c": "",
             "falsification": null
         },
@@ -700,8 +700,8 @@
             "leave_reason_D_2": "have to attend to someone who just walked in"
         },
         "relationship": "coworkers",
-        "muiltiple_liar": true,
-        "muiltiple_target": false,
+        "multiple_liar": true,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Valentine",
@@ -711,7 +711,7 @@
         },
         "lie": {
             "real_reason_c": "Valentine and Meylin don't like Jule's decoration style for home, so they do not want to buy home stuff with Jule because it would be rude to say that to Jule's face",
-            "lie_c": "Valentine and Meylin says they’re tied up this weekend",
+            "lie_c": "Valentine and Meylin are tied up this weekend",
             "truth_c": "Valentine and Meylin are free this weekend",
             "falsification": true
         },
@@ -741,8 +741,8 @@
             "leave_reason_D_2": "need to grab a snack or a drink"
         },
         "relationship": "coworkers",
-        "muiltiple_liar": true,
-        "muiltiple_target": false,
+        "multiple_liar": true,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Adama",
@@ -752,7 +752,7 @@
         },
         "lie": {
             "real_reason_c": "Adama and Gwyndolyn don't like Fleta's decoration style for home, so they do not want to buy home stuff with Fleta because it would be rude to say that to Fleta's face",
-            "lie_c": "Adama and Gwyndolyn says they’re tied up this weekend",
+            "lie_c": "Adama and Gwyndolyn are tied up this weekend",
             "truth_c": "Adama and Gwyndolyn haven’t made any plans yet for this weekend and are still figuring things out",
             "falsification": false
         },
@@ -782,8 +782,8 @@
             "leave_reason_D_2": "need to get some coffee"
         },
         "relationship": "coworkers",
-        "muiltiple_liar": true,
-        "muiltiple_target": false,
+        "multiple_liar": true,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Baila",
@@ -793,7 +793,7 @@
         },
         "lie": {
             "real_reason_c": "Baila and Idella aren’t keen on luxury goods; they feel that such items aren’t worth the high price and come off as a bit ostentatious",
-            "lie_c": "Baila and Idella says they’ve got something going on this Friday night",
+            "lie_c": "Baila and Idella have got something going on this Friday night",
             "truth_c": "",
             "falsification": null
         },
@@ -823,8 +823,8 @@
             "leave_reason_D_2": "need to grab a quick snack"
         },
         "relationship": "coworkers",
-        "muiltiple_liar": true,
-        "muiltiple_target": false,
+        "multiple_liar": true,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Aitana",
@@ -834,7 +834,7 @@
         },
         "lie": {
             "real_reason_c": "Aitana and Fransheska aren’t keen on luxury goods; they feel that such items aren’t worth the high price and come off as a bit ostentatious",
-            "lie_c": "Aitana and Fransheska says they’ve got something going on this Friday night",
+            "lie_c": "Aitana and Fransheska have got something going on this Friday night",
             "truth_c": "Aitana and Fransheska are free this Friday night",
             "falsification": true
         },
@@ -864,8 +864,8 @@
             "leave_reason_D_2": "remembered to receive a package"
         },
         "relationship": "coworkers",
-        "muiltiple_liar": true,
-        "muiltiple_target": false,
+        "multiple_liar": true,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Waymon",
@@ -875,7 +875,7 @@
         },
         "lie": {
             "real_reason_c": "Waymon and Taleena aren’t keen on luxury goods; they feel that such items aren’t worth the high price and come off as a bit ostentatious",
-            "lie_c": "Waymon and Taleena says they’ve got something going on this Friday night",
+            "lie_c": "Waymon and Taleena have got something going on this Friday night",
             "truth_c": "Waymon and Taleena are still figuring out what to do for this Friday night",
             "falsification": true
         },
@@ -905,8 +905,8 @@
             "leave_reason_D_2": "have to take care of a family matter"
         },
         "relationship": "coworkers",
-        "muiltiple_liar": false,
-        "muiltiple_target": false,
+        "multiple_liar": false,
+        "multiple_target": false,
         "real_reason_type": false,
         "characters": {
             "liar": "Alizae",
@@ -916,7 +916,7 @@
         },
         "lie": {
             "real_reason_c": "Alizae doen's like to spend too much time with others in the weekend and prefer to be alone",
-            "lie_c": "Alizae says Alizae will be busy with work that weekend",
+            "lie_c": "Alizae will be busy with work that weekend",
             "truth_c": "",
             "falsification": null
         },
@@ -946,8 +946,8 @@
             "leave_reason_D_2": "have to water my plants"
         },
         "relationship": "coworkers",
-        "muiltiple_liar": false,
-        "muiltiple_target": false,
+        "multiple_liar": false,
+        "multiple_target": false,
         "real_reason_type": false,
         "characters": {
             "liar": "Floretta",
@@ -987,8 +987,8 @@
             "leave_reason_D_2": "need to move my car"
         },
         "relationship": "coworkers",
-        "muiltiple_liar": false,
-        "muiltiple_target": false,
+        "multiple_liar": false,
+        "multiple_target": false,
         "real_reason_type": false,
         "characters": {
             "liar": "Larkin",
@@ -1028,8 +1028,8 @@
             "leave_reason_D_2": "coffee break"
         },
         "relationship": "classmates",
-        "muiltiple_liar": false,
-        "muiltiple_target": false,
+        "multiple_liar": false,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Cortrell",
@@ -1069,8 +1069,8 @@
             "leave_reason_D_2": "need to register for an event"
         },
         "relationship": "classmates",
-        "muiltiple_liar": false,
-        "muiltiple_target": false,
+        "multiple_liar": false,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Lanett",
@@ -1110,8 +1110,8 @@
             "leave_reason_D_2": "have to print or scan documents"
         },
         "relationship": "classmates",
-        "muiltiple_liar": false,
-        "muiltiple_target": false,
+        "multiple_liar": false,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Karene",
@@ -1151,8 +1151,8 @@
             "leave_reason_D_2": "must respond to a phone call"
         },
         "relationship": "classmates",
-        "muiltiple_liar": false,
-        "muiltiple_target": false,
+        "multiple_liar": false,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Wesley",
@@ -1192,8 +1192,8 @@
             "leave_reason_D_2": "remembered to take care of some paperwork or documents"
         },
         "relationship": "classmates",
-        "muiltiple_liar": false,
-        "muiltiple_target": false,
+        "multiple_liar": false,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Leisel",
@@ -1233,8 +1233,8 @@
             "leave_reason_D_2": "must respond to a phone call"
         },
         "relationship": "classmates",
-        "muiltiple_liar": false,
-        "muiltiple_target": false,
+        "multiple_liar": false,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Madelyne",
@@ -1274,8 +1274,8 @@
             "leave_reason_D_2": "must respond to a phone call"
         },
         "relationship": "families",
-        "muiltiple_liar": true,
-        "muiltiple_target": false,
+        "multiple_liar": true,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Madelyne",
@@ -1315,8 +1315,8 @@
             "leave_reason_D_2": "need to briefly step away due to allergy or health symptoms"
         },
         "relationship": "families",
-        "muiltiple_liar": true,
-        "muiltiple_target": false,
+        "multiple_liar": true,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Kieth",
@@ -1356,8 +1356,8 @@
             "leave_reason_D_2": "remembered to take care of something urgent"
         },
         "relationship": "families",
-        "muiltiple_liar": true,
-        "muiltiple_target": false,
+        "multiple_liar": true,
+        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Maizley",

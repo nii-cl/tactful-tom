@@ -1,0 +1,110 @@
+{
+    "0-1-0-0": {
+        "truth": {
+                "correct_answer": "To politely decline without making Pearl feel bad about choosing an expensive restaurant.",
+                "wrong_answers": [
+                    "Because Jamey actually has to work this weekend, so cannot have dinner with Pearl together at the fancy Italian restaurant this weekend.",
+                    "Because Jamey dislikes Pearl and doesn't want to spend time with them, so do not want to have dinner with Pearl together.",
+                    "Because Jamey already has dinner plans with someone else, so cannot have dinner with Pearl together."
+            ]
+        },
+        "real_reason": {
+            "correct_answer": "Because Jamey wanted to avoid hurting Pearl’s feelings by not mentioning the true reason.",
+                "wrong_answers": [
+                    "Because Jamey actually enjoys dining at expensive restaurants.",
+                    "Because Jamey wanted to test if Pearl would insist on changing the restaurant.",
+                    "Because Jamey thought Pearl would never find out the truth."
+            ]
+        }
+    },
+    "0-1-0-1": {
+        "truth": {
+                "correct_answer": "To politely decline without making Poseidon feel bad about choosing an expensive restaurant.",
+                "wrong_answers": [
+                    "Because Kaleen genuinely has prior commitments.",
+                    "Because Kaleen dislikes Poseidon and wants to avoid them.",
+                    "Because Kaleen prefers to spend time alone on weekends."
+                ]
+        },
+        "real_reason": {
+                "correct_answer": "Because Kaleen wanted to avoid hurting Poseidon's feelings by not mentioning the true reason.",
+                "wrong_answers": [
+                    "Because Kaleen actually enjoys dining at expensive restaurants.",
+                    "Because Kaleen thought Poseidon would change the restaurant choice if they knew the truth.",
+                    "Because Kaleen believed Poseidon would never find out the real reason."
+                ]
+        }
+    },
+    "0-1-0-2": {
+        "truth": {
+                "correct_answer": "To politely decline without making Isobella feel bad about choosing an expensive restaurant.",
+                "wrong_answers": [
+                    "Because Cornell actually has other important plans for the weekend.",
+                    "Because Cornell dislikes spending time with Isobella.",
+                    "Because Cornell prefers to avoid social gatherings entirely."
+                ]
+        },
+        "real_reason": {
+                "correct_answer": "Because Cornell wanted to avoid hurting Isobella’s feelings by not mentioning the true reason.",
+                "wrong_answers": [
+                    "Because Cornell actually enjoys dining at expensive restaurants.",
+                    "Because Cornell was hoping Isobella would offer to pay for the meal.",
+                    "Because Cornell thought Isobella would insist on changing the restaurant."
+                ]
+        }
+    },
+    "0-2-0-0": {
+        "truth": {
+            "correct_answer": "To politely decline without criticizing Clair’s taste, so won't hurt Clair’s feelings.",
+            "wrong_answers": [
+                "Because Marvis dislikes Clair personally.",
+                "Marvis wants Clair to think they have an active social life.",
+                "Marvis genuinely has other plans."
+            ]
+        },
+        "real_reason": {
+            "correct_answer": "Because Marvis wanted to avoid hurting Clair's feelings by not mentioning the true reason.",
+            "wrong_answers": [
+                "Because Marvis actually liked Clair’s favorite music.",
+                "Because Marvis didn't like Clair’s taste.",
+                "Because Marvis thought Clair would never find out the truth."
+            ]
+        }
+    },
+    "0-2-0-1": {
+        "truth": {
+            "correct_answer": "To politely decline the invitation without offending Arnetta or criticizing their music taste.",
+            "wrong_answers": [
+                "Because Marguerite actually has a dinner reservation with a friend.",
+                "Because Marguerite forgot about the concert and already made other plans.",
+                "Because Marguerite prefers to attend concerts alone."
+            ]
+        },
+        "real_reason": {
+            "correct_answer": "Because Marguerite wanted to avoid hurting Arnetta’s feelings by not mentioning the true reason.",
+            "wrong_answers": [
+                "Because Marguerite actually enjoys Arnetta’s preferred music style.",
+                "Because Marguerite thought Arnetta would insist on changing the concert choice.",
+                "Because Marguerite was afraid Arnetta would find out the truth later."
+            ]
+        }
+    },
+    "0-4-0-2": {
+        "truth": {
+            "correct_answer": "To politely decline the invitation without offending Berthal or criticizing their music taste.",
+            "wrong_answers": [
+                "Because Angelik genuinely had other plans for the evening.",
+                "Because Angelik wanted to test if Berthal would insist on the invitation.",
+                "Because Angelik prefers to spend time alone after work."
+            ]
+        },
+        "real_reason": {
+            "correct_answer": "Because Angelik wanted to avoid hurting Berthal’s feelings by not mentioning the true reason.",
+            "wrong_answers": [
+                "Because Angelik actually enjoys Berthal’s preferred music style.",
+                "Because Angelik wanted to see if Berthal would invite someone else instead.",
+                "Because Angelik was afraid Berthal would find out the truth later."
+            ]
+        }
+    }
+}
