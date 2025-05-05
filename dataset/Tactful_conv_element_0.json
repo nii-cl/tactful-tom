@@ -16,6 +16,8 @@
             "leave_reason_D_2": "have a meeting starting soon that I need to prepare for"
         },
         "relationship": "coworkers",
+        "multiple_liar": false,
+        "real_reason_type": false,
         "characters": {
             "liar": "Jamey",
             "target": "Pearl",
@@ -50,6 +52,8 @@
             "leave_reason_D_2": "need to receive a parcel"
         },
         "relationship": "coworkers",
+        "multiple_liar": false,
+        "real_reason_type": false,
         "characters": {
             "liar": "Kaleen",
             "target": "Poseidon",
@@ -84,6 +88,8 @@
             "leave_reason_D_2": "forgot to run errands"
         },
         "relationship": "coworkers",
+        "multiple_liar": false,
+        "real_reason_type": false,
         "characters": {
             "liar": "Cornell",
             "target": "Isobella",
@@ -118,6 +124,8 @@
             "leave_reason_D_2": "remembered to take care of some paperwork or documents"
         },
         "relationship": "coworkers",
+        "multiple_liar": false,
+        "real_reason_type": true,
         "characters": {
             "liar": "Marvis",
             "target": "Clair",
@@ -150,6 +158,8 @@
             "leave_reason_D_2": "need to get a phone call"
         },
         "relationship": "coworkers",
+        "multiple_liar": false,
+        "real_reason_type": true,
         "characters": {
             "liar": "Marguerite",
             "target": "Arnetta",
@@ -184,6 +194,8 @@
             "leave_reason_D_2": "want to go grab a drink"
         },
         "relationship": "coworkers",
+        "multiple_liar": false,
+        "real_reason_type": true,
         "characters": {
             "liar": "Angelik",
             "target": "Berthal",
@@ -218,6 +230,8 @@
             "leave_reason_D_2": "remembered to take care of some paperwork or documents"
         },
         "relationship": "classmates in university",
+        "multiple_liar": false,
+        "real_reason_type": true,
         "characters": {
             "liar": "Shavante",
             "target": "John",
@@ -252,6 +266,8 @@
             "leave_reason_D_2": "need to step out for a moment"
         },
         "relationship": "classmates in university",
+        "multiple_liar": false,
+        "real_reason_type": true,
         "characters": {
             "liar": "Vivian",
             "target": "Tresia",
@@ -286,6 +302,8 @@
             "leave_reason_D_2": "coffee break"
         },
         "relationship": "classmates in university",
+        "multiple_liar": false,
+        "real_reason_type": true,
         "characters": {
             "liar": "Marquitta",
             "target": "Fabian",
@@ -320,6 +338,8 @@
             "leave_reason_D_2": "need to register for an event"
         },
         "relationship": "coworkers",
+        "multiple_liar": false,
+        "real_reason_type": false,
         "characters": {
             "liar": "Migdalia",
             "target": "Julita",
@@ -354,6 +374,8 @@
             "leave_reason_D_2": "need to finish a task that’s time-sensitive"
         },
         "relationship": "coworkers",
+        "multiple_liar": false,
+        "real_reason_type": false,
         "characters": {
             "liar": "Reco",
             "target": "Kendall",
@@ -388,6 +410,8 @@
             "leave_reason_D_2": "forgot to recieve a package"
         },
         "relationship": "coworkers",
+        "multiple_liar": false,
+        "real_reason_type": false,
         "characters": {
             "liar": "Ginger",
             "target": "Kristyna",
@@ -422,6 +446,8 @@
             "leave_reason_D_2": "have to take care of a family matter"
         },
         "relationship": "friends",
+        "multiple_liar": false,
+        "real_reason_type": false,
         "characters": {
             "liar": "Diamon",
             "target": "Robel",
@@ -460,6 +486,8 @@
             "leave_reason_D_2": "have to adjust the thermostat"
         },
         "relationship": "friends",
+        "multiple_liar": false,
+        "real_reason_type": false,
         "characters": {
             "liar": "Lorice",
             "target": "Nolin",
@@ -498,6 +526,8 @@
             "leave_reason_D_2": "need to recharge cellphone"
         },
         "relationship": "friends",
+        "multiple_liar": false,
+        "real_reason_type": false,
         "characters": {
             "liar": "Athene",
             "target": "Rayne",
@@ -537,7 +567,6 @@
         },
         "relationship": "friends",
         "multiple_liar": true,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Lucrezia",
@@ -578,7 +607,6 @@
         },
         "relationship": "friends",
         "multiple_liar": true,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Junia",
@@ -619,7 +647,6 @@
         },
         "relationship": "friends",
         "multiple_liar": true,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Harrel",
@@ -660,7 +687,6 @@
         },
         "relationship": "coworkers",
         "multiple_liar": true,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Denishia",
@@ -701,7 +727,6 @@
         },
         "relationship": "coworkers",
         "multiple_liar": true,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Valentine",
@@ -742,7 +767,6 @@
         },
         "relationship": "coworkers",
         "multiple_liar": true,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Adama",
@@ -783,7 +807,6 @@
         },
         "relationship": "coworkers",
         "multiple_liar": true,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Baila",
@@ -824,7 +847,6 @@
         },
         "relationship": "coworkers",
         "multiple_liar": true,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Aitana",
@@ -865,7 +887,6 @@
         },
         "relationship": "coworkers",
         "multiple_liar": true,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Waymon",
@@ -906,7 +927,6 @@
         },
         "relationship": "coworkers",
         "multiple_liar": false,
-        "multiple_target": false,
         "real_reason_type": false,
         "characters": {
             "liar": "Alizae",
@@ -947,7 +967,6 @@
         },
         "relationship": "coworkers",
         "multiple_liar": false,
-        "multiple_target": false,
         "real_reason_type": false,
         "characters": {
             "liar": "Floretta",
@@ -988,7 +1007,6 @@
         },
         "relationship": "coworkers",
         "multiple_liar": false,
-        "multiple_target": false,
         "real_reason_type": false,
         "characters": {
             "liar": "Larkin",
@@ -1029,7 +1047,6 @@
         },
         "relationship": "classmates",
         "multiple_liar": false,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Cortrell",
@@ -1070,7 +1087,6 @@
         },
         "relationship": "classmates",
         "multiple_liar": false,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Lanett",
@@ -1111,7 +1127,6 @@
         },
         "relationship": "classmates",
         "multiple_liar": false,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Karene",
@@ -1152,7 +1167,6 @@
         },
         "relationship": "classmates",
         "multiple_liar": false,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Wesley",
@@ -1193,7 +1207,6 @@
         },
         "relationship": "classmates",
         "multiple_liar": false,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Leisel",
@@ -1234,7 +1247,6 @@
         },
         "relationship": "classmates",
         "multiple_liar": false,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Madelyne",
@@ -1275,7 +1287,6 @@
         },
         "relationship": "families",
         "multiple_liar": true,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Madelyne",
@@ -1316,7 +1327,6 @@
         },
         "relationship": "families",
         "multiple_liar": true,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Kieth",
@@ -1357,7 +1367,6 @@
         },
         "relationship": "families",
         "multiple_liar": true,
-        "multiple_target": false,
         "real_reason_type": true,
         "characters": {
             "liar": "Maizley",

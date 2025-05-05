@@ -17,7 +17,6 @@
     },
     "relationship": "families (parents, one kid, aunt/uncle)",
     "multiple_liar": true,
-    "multiple_target": false,
     "real_reason_type": true,
     "characters": {
         "liar": "Mica",
@@ -61,7 +60,6 @@
     },
     "relationship": "families (parents, one kid, aunt/uncle)",
     "multiple_liar": true,
-    "multiple_target": false,
     "real_reason_type": true,
     "characters": {
         "liar": "Natsuki",
@@ -105,7 +103,6 @@
     },
     "relationship": "families (parents, one kid, aunt/uncle)",
     "multiple_liar": true,
-    "multiple_target": false,
     "real_reason_type": true,
     "characters": {
         "liar": "Memory",
@@ -149,7 +146,6 @@
     },
     "relationship": "families (parents, one kid, aunt/uncle)",
     "multiple_liar": true,
-    "multiple_target": false,
     "real_reason_type": true,
     "characters": {
         "liar": "Evalina",
@@ -193,7 +189,6 @@
     },
     "relationship": "families (parents, one kid, aunt/uncle)",
     "multiple_liar": true,
-    "multiple_target": false,
     "real_reason_type": true,
     "characters": {
         "liar": "Alfonso",
@@ -238,7 +233,6 @@
     },
     "relationship": "families (parents, one kid, aunt/uncle)",
     "multiple_liar": true,
-    "multiple_target": false,
     "real_reason_type": true,
     "characters": {
         "liar": "Dwayne",
@@ -282,7 +276,6 @@
     },
     "relationship": "families (parents, one kid, aunt/uncle)",
     "multiple_liar": true,
-    "multiple_target": false,
     "real_reason_type": true,
     "characters": {
         "liar": "Kolbey",
@@ -326,7 +319,6 @@
     },
     "relationship": "families (parents, one kid, aunt/uncle)",
     "multiple_liar": true,
-    "multiple_target": false,
     "real_reason_type": true,
     "characters": {
         "liar": "Ivory",
@@ -370,7 +362,6 @@
     },
     "relationship": "families (parents, one kid, aunt/uncle)",
     "multiple_liar": true,
-    "multiple_target": false,
     "real_reason_type": true,
     "characters": {
         "liar": "Zephaniah",
