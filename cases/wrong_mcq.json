@@ -1,0 +1,1043 @@
+[
+   {
+      "question": "Why did Jamey tell Pearl 'Jamey need to work this weekend, so Jamey can\u2019t make it'?",
+      "llm_answer": 1,
+      "options": [
+         "To politely decline without making Pearl feel bad about choosing an expensive restaurant.",
+         "Because Jamey actually has to work this weekend.",
+         "Because Jamey dislikes Pearl and doesn't want to spend time with them.",
+         "Because Jamey already has dinner plans with someone else."
+      ],
+      "category": "justificationQA"
+   },
+   {
+      "question": "What does Jamey believe about Pearl's belief regarding 'Who discussed 'Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Jamey believes that Pearl is unaware of that Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead, because Pearl was not involved in the conversation when this was discussed.",
+         "Jamey believes that Pearl believs that Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text provides no information on what Jamey believes about Pearl's belief regarding that. Therefore, it can be stated that Jamey is unaware of Pearl is unaware of Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text provides no information on what Jamey believes about Pearl's belief regarding that. Therefore, it can be stated that Jamey is unaware of Pearl believs that Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Pearl believe about Jamey's belief regarding 'Who discussed 'Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead'?'?",
+      "llm_answer": 2,
+      "options": [
+         "The text provides no information on what Pearl believes about Jamey's belief regarding that. Therefore, it can be stated that Pearl is unaware of that Jamey believes that Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text provides no information on what Pearl believes about Jamey's belief regarding that. Therefore, it can be stated that Pearl is unaware of that Jamey is unaware of Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "Pearl believes that Jamey believs that Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "Pearl believes that Jamey is unaware of that Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead, because Jamey was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Pearl believe about Donyae's belief regarding 'Who discussed 'Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead'?'?",
+      "llm_answer": 2,
+      "options": [
+         "The text provides no information on what Pearl believes about Donyae's belief regarding that. Therefore, it can be stated that Pearl is unaware of that Donyae is unaware of Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text provides no information on what Pearl believes about Donyae's belief regarding that. Therefore, it can be stated that Pearl is unaware of that Donyae believes that Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "Pearl believes that Donyae is unaware of that Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead, because Donyae was not involved in the conversation when this was discussed.",
+         "Pearl believes that Donyae believs that Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Marithza believe about Donyae's belief regarding 'Who discussed 'Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Marithza believes that Donyae is unaware of that Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead, because Donyae was not involved in the conversation when this was discussed.",
+         "Marithza believes that Donyae believs that Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text provides no information on what Marithza believes about Donyae's belief regarding that. Therefore, it can be stated that Marithza is unaware of that Pearl is unaware of Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text provides no information on what Marithza believes about Donyae's belief regarding that. Therefore, it can be stated that Marithza is unaware of that Pearl believs that Jamey does not want to dine out at expensive restaurants, preferring more casual dining options instead."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "Why did Cornell tell Isobella 'Cornell already has something to do for this weekend'?",
+      "llm_answer": 1,
+      "options": [
+         "To politely decline without making Isobella feel bad about choosing an expensive restaurant.",
+         "Because Cornell actually has other important plans for the weekend.",
+         "Because Cornell dislikes spending time with Isobella.",
+         "Because Cornell prefers to avoid social gatherings entirely."
+      ],
+      "category": "justificationQA"
+   },
+   {
+      "question": "What does Cornell believe about 'Who discussed 'Cornell hasn't decided what to do for this weekend yet'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Cornell believes that Arvilla and Mckenize discussed Cornell hasn't decided what to do for this weekend yet.",
+         "Arvilla believes that Cornell and Isobella discussed Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text did not provide enough information about this, so we can state that Cornell is unaware of Arvilla and Mckenize discussed Cornell hasn't decided what to do for this weekend yet.",
+         "The text did not provide enough information about this, so we can state that Cornell is unaware of Isobella discussed Cornell hasn't decided what to do for this weekend yet."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Isobella believe about 'Who discussed 'Cornell hasn't decided what to do for this weekend yet'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Arvilla believe that Cornell and Mckenize discussed Cornell hasn't decided what to do for this weekend yet.",
+         "Arvilla believes that Mckenize and Isobella discussed Cornell hasn't decided what to do for this weekend yet.",
+         "The text did not provide enough information about this, so we can state that Arvilla is unaware of Mckenize discussed Cornell hasn't decided what to do for this weekend yet.",
+         "The text did not provide enough information about this, so we can state that Arvilla is unaware of Mckenize and Isobella discussed Cornell hasn't decided what to do for this weekend yet."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Isobella believe about Cornell's belief regarding 'Who discussed 'Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead'?'?",
+      "llm_answer": 2,
+      "options": [
+         "The text provides no information on what Isobella believes about Cornell's belief regarding that. Therefore, it can be stated that Isobella is unaware of that Cornell believes that Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text provides no information on what Isobella believes about Cornell's belief regarding that. Therefore, it can be stated that Isobella is unaware of that Cornell is unaware of Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "Isobella believes that Cornell believs that Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "Isobella believes that Cornell is unaware of that Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead, because Cornell was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Isobella believe about Arvilla's belief regarding 'Who discussed 'Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead'?'?",
+      "llm_answer": 1,
+      "options": [
+         "The text provides no information on what Isobella believes about Arvilla's belief regarding that. Therefore, it can be stated that Isobella is unaware of that Arvilla believes that Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text provides no information on what Isobella believes about Arvilla's belief regarding that. Therefore, it can be stated that Isobella is unaware of that Arvilla is unaware of Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "Isobella believes that Arvilla believs that Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "Isobella believes that Arvilla is unaware of that Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead, because Arvilla was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Isobella believe about Mckenize's belief regarding 'Who discussed 'Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead'?'?",
+      "llm_answer": 1,
+      "options": [
+         "The text provides no information on what Isobella believes about Mckenize's belief regarding that. Therefore, it can be stated that Isobella is unaware of that Mckenize is unaware of Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text provides no information on what Isobella believes about Mckenize's belief regarding that. Therefore, it can be stated that Isobella is unaware of that Mckenize believes that Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "Isobella believes that Mckenize is unaware of that Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead, because Mckenize was not involved in the conversation when this was discussed.",
+         "Isobella believes that Mckenize believs that Cornell does not want to dine out at expensive restaurants, preferring more casual dining options instead."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Arvilla believe about Mckenize's belief regarding 'Who discussed 'Cornell hasn't decided what to do for this weekend yet'?'?",
+      "llm_answer": 1,
+      "options": [
+         "Arvilla believes that Mckenize believs that Cornell hasn't decided what to do for this weekend yet.",
+         "Arvilla believes that Mckenize is unaware of that Cornell hasn't decided what to do for this weekend yet, because Mckenize was not involved in the conversation when this was discussed.",
+         "The text provides no information on what Arvilla believes about Mckenize's belief regarding that. Therefore, it can be stated that Arvilla is unaware of that Isobella believs that Cornell hasn't decided what to do for this weekend yet.The text provides no information on what Arvilla believes about Mckenize's belief regarding that. Therefore, it can be stated that Arvilla is unaware of that Isobella is unaware of Cornell hasn't decided what to do for this weekend yet."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "Why did Kaleen tell Poseidon 'Kaleen already has something to do for this weekend'?",
+      "llm_answer": 1,
+      "options": [
+         "To politely decline without making Poseidon feel bad about choosing an expensive restaurant.",
+         "Because Kaleen genuinely has prior commitments.",
+         "Because Kaleen dislikes Poseidon and wants to avoid them.",
+         "Because Kaleen prefers to spend time alone on weekends."
+      ],
+      "category": "justificationQA"
+   },
+   {
+      "question": "What does Kaleen believe about 'Who discussed 'Kaleen has no plan for this weekend'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Kaleen believes that Natalia and Lynzi discussed Kaleen has no plan for this weekend.",
+         "Natalia believes that Kaleen and Poseidon discussed Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text did not provide enough information about this, so we can state that Kaleen is unaware of Lynzi discussed Kaleen has no plan for this weekend.",
+         "The text did not provide enough information about this, so we can state that Kaleen is unaware of Natalia and Poseidon discussed Kaleen has no plan for this weekend."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Poseidon believe about 'Who discussed 'Kaleen has no plan for this weekend'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Natalia believe that Kaleen and Lynzi discussed Kaleen has no plan for this weekend.",
+         "Natalia believes that Poseidon discussed Kaleen has no plan for this weekend.",
+         "The text did not provide enough information about this, so we can state that Natalia is unaware of Kaleen and Lynzi discussed Kaleen has no plan for this weekend.",
+         "The text did not provide enough information about this, so we can state that Natalia is unaware of Poseidon discussed Kaleen has no plan for this weekend."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Poseidon believe about Natalia's belief regarding 'Who discussed 'Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead'?'?",
+      "llm_answer": 1,
+      "options": [
+         "The text provides no information on what Poseidon believes about Natalia's belief regarding that. Therefore, it can be stated that Poseidon is unaware of that Natalia believes that Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text provides no information on what Poseidon believes about Natalia's belief regarding that. Therefore, it can be stated that Poseidon is unaware of that Natalia is unaware of Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "Poseidon believes that Natalia believs that Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "Poseidon believes that Natalia is unaware of that Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead, because Natalia was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Poseidon believe about Lynzi's belief regarding 'Who discussed 'Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead'?'?",
+      "llm_answer": 1,
+      "options": [
+         "The text provides no information on what Poseidon believes about Lynzi's belief regarding that. Therefore, it can be stated that Poseidon is unaware of that Lynzi is unaware of Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text provides no information on what Poseidon believes about Lynzi's belief regarding that. Therefore, it can be stated that Poseidon is unaware of that Lynzi believes that Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "Poseidon believes that Lynzi is unaware of that Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead, because Lynzi was not involved in the conversation when this was discussed.",
+         "Poseidon believes that Lynzi believs that Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Natalia believe about Poseidon's belief regarding 'Who discussed 'Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Natalia believes that Poseidon is unaware of that Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead, because Poseidon was not involved in the conversation when this was discussed.",
+         "Natalia believes that Poseidon believs that Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text provides no information on what Natalia believes about Poseidon's belief regarding that. Therefore, it can be stated that Natalia is unaware of Poseidon is unaware of Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead.",
+         "The text provides no information on what Natalia believes about Poseidon's belief regarding that. Therefore, it can be stated that Natalia is unaware of Poseidon believs that Kaleen does not want to dine out at expensive restaurants, preferring more casual dining options instead."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Kaleen believe about Lynzi's belief regarding 'Who discussed 'Kaleen has no plan for this weekend'?'?",
+      "llm_answer": 1,
+      "options": [
+         "Kaleen believes that Lynzi believs that Kaleen has no plan for this weekend.",
+         "Kaleen is unaware of Lynzi's belief regarding that."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Poseidon believe about Kaleen's belief regarding 'Who discussed 'Kaleen has no plan for this weekend'?'?",
+      "llm_answer": 2,
+      "options": [
+         "The text provides no information on what Poseidon believes about Kaleen's belief regarding that. Therefore, it can be stated that Poseidon is unaware of that Kaleen believes that Kaleen has no plan for this weekend.",
+         "The text provides no information on what Poseidon believes about Kaleen's belief regarding that. Therefore, it can be stated that Poseidon is unaware of that Kaleen is unaware of Kaleen has no plan for this weekend.",
+         "Poseidon believes that Kaleen believs that Kaleen has no plan for this weekend.",
+         "Poseidon believes that Kaleen is unaware of that Kaleen has no plan for this weekend, because Kaleen was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Natalia believe about Lynzi's belief regarding 'Who discussed 'Kaleen has no plan for this weekend'?'?",
+      "llm_answer": 1,
+      "options": [
+         "Natalia believes that Lynzi believs that Kaleen has no plan for this weekend.",
+         "Natalia believes that Lynzi is unaware of that Kaleen has no plan for this weekend, because Lynzi was not involved in the conversation when this was discussed.",
+         "The text provides no information on what Natalia believes about Lynzi's belief regarding that. Therefore, it can be stated that Natalia is unaware of that Poseidon believs that Kaleen has no plan for this weekend.The text provides no information on what Natalia believes about Lynzi's belief regarding that. Therefore, it can be stated that Natalia is unaware of that Poseidon is unaware of Kaleen has no plan for this weekend."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "Please choose the correct answer from the options below:",
+      "llm_answer": 2,
+      "options": [
+         [
+            "Kaleen tell Poseidon the Kaleen already has something to do for this weekend' because Kaleen believes that Poseidon is unaware of Kaleen has no plan for this weekend."
+         ],
+         "Kaleen tell Poseidon the Kaleen already has something to do for this weekend' because Kaleen is unaware that Poseidon believes Kaleen has no plan for this weekend.",
+         "Kaleen tell Poseidon the Kaleen already has something to do for this weekend' because Kaleen believes that Poseidon believes Kaleen has no plan for this weekend.",
+         "Kaleen tell Poseidon the Kaleen already has something to do for this weekend' because Kaleen is unaware that Poseidon is unaware of Kaleen has no plan for this weekend."
+      ],
+      "category": "lieability"
+   },
+   {
+      "question": "Why did Marvis tell Clair 'Marvis has a dinner with friends tonight'?",
+      "llm_answer": 3,
+      "options": [
+         "To politely decline without criticizing Clair\u2019s taste, so won't hurt Clair\u2019s feelings.",
+         "Because Marvis dislikes Clair personally.",
+         "Marvis wants Clair to think they have an active social life.",
+         "Marvis genuinely has other plans."
+      ],
+      "category": "justificationQA"
+   },
+   {
+      "question": "What does Marvis believe about 'Who discussed 'Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Marvis believes that Carolyn discussed Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "Marvis believes that Clair discussed Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "The text did not provide enough information about this, so we can state that Marvis is unaware of Carolyn discussed Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "The text did not provide enough information about this, so we can state that Marvis is unaware of Clair and Carolyn discussed Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Marvis believe about Carolyn's belief regarding 'Who discussed 'Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Marvis believes that Carolyn believes that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "Marvis believes that Carolyn is unaware of Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style, because Carolyn was not involved in the conversation when this was discussed.",
+         "The text provides no information on what Marvis believes about Carolyn's belief regarding that. Therefore, it can be stated that Marvis is unaware of that Carolyn is unaware of Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "The text provides no information on what Marvis believes about Carolyn's belief regarding that. Therefore, it can be stated that Marvis is unaware of that Carolyn believs that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Marvis believe about Keyunta's belief regarding 'Who discussed 'Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Marvis believes that Keyunta is unaware of that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style, because Keyunta was not involved in the conversation when this was discussed.",
+         "Marvis believes that Keyunta believs that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "The text provides no information on what Marvis believes about Keyunta's belief regarding that. Therefore, it can be stated that Marvis is unaware of that Clair is unaware of Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "The text provides no information on what Marvis believes about Keyunta's belief regarding that. Therefore, it can be stated that Marvis is unaware of that Clair believs that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Clair believe about Carolyn's belief regarding 'Who discussed 'Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style'?'?",
+      "llm_answer": 1,
+      "options": [
+         "The text provides no information on what Clair believes about Carolyn's belief regarding that. Therefore, it can be stated that Clair is unaware of that Carolyn believes that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "The text provides no information on what Clair believes about Carolyn's belief regarding that. Therefore, it can be stated that Clair is unaware of that Carolyn is unaware of Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "Clair believes that Carolyn believs that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "Clair believes that Carolyn is unaware of that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style, because Carolyn was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Clair believe about Keyunta's belief regarding 'Who discussed 'Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style'?'?",
+      "llm_answer": 2,
+      "options": [
+         "The text provides no information on what Clair believes about Keyunta's belief regarding that. Therefore, it can be stated that Clair is unaware of that Keyunta is unaware of Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "The text provides no information on what Clair believes about Keyunta's belief regarding that. Therefore, it can be stated that Clair is unaware of that Keyunta believes that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "Clair believes that Keyunta is unaware of that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style, because Keyunta was not involved in the conversation when this was discussed.",
+         "Clair believes that Keyunta believs that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Carolyn believe about Marvis's belief regarding 'Who discussed 'Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Carolyn believes that Marvis believes that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "Carolyn believes that Marvis is unaware of Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style, because Marvis was not involved in the conversation when this was discussed.",
+         "The text provides no information on what Carolyn believes about Marvis's belief regarding that. Therefore, it can be stated that Carolyn is unaware of that Marvis is unaware of Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "The text provides no information on what Carolyn believes about Marvis's belief regarding that. Therefore, it can be stated that Carolyn is unaware of that Marvis believs that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Carolyn believe about Clair's belief regarding 'Who discussed 'Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Carolyn believes that Clair is unaware of that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style, because Clair was not involved in the conversation when this was discussed.",
+         "Carolyn believes that Clair believs that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "The text provides no information on what Carolyn believes about Clair's belief regarding that. Therefore, it can be stated that Carolyn is unaware of Clair is unaware of Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style.",
+         "The text provides no information on what Carolyn believes about Clair's belief regarding that. Therefore, it can be stated that Carolyn is unaware of Clair believs that Marvis takes great pride in their music taste and considers it superior to others, and dislike Clair\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "Why did Marguerite tell Arnetta 'Marguerite has dinner researvation with friend tonight'?",
+      "llm_answer": 1,
+      "options": [
+         "To politely decline the invitation without offending Arnetta or criticizing their music taste.",
+         "Because Marguerite actually has a dinner reservation with a friend.",
+         "Because Marguerite forgot about the concert and already made other plans.",
+         "Because Marguerite prefers to attend concerts alone."
+      ],
+      "category": "justificationQA"
+   },
+   {
+      "question": "What does Arnetta believe about 'Who discussed 'Marguerite will go home after work'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Antwann believe that Marguerite and Jeanmichael discussed Marguerite will go home after work.",
+         "Antwann believes that Jeanmichael and Arnetta discussed Marguerite will go home after work.",
+         "The text did not provide enough information about this, so we can state that Antwann is unaware of Marguerite discussed Marguerite will go home after work.",
+         "The text did not provide enough information about this, so we can state that Antwann is unaware of Jeanmichael and Arnetta discussed Marguerite will go home after work."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Marguerite believe about Arnetta's belief regarding 'Who discussed 'Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Marguerite believes that Arnetta is unaware of that Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style, because Arnetta was not involved in the conversation when this was discussed.",
+         "Marguerite believes that Arnetta believs that Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style.",
+         "The text provides no information on what Marguerite believes about Arnetta's belief regarding that. Therefore, it can be stated that Marguerite is unaware of Arnetta is unaware of Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style.",
+         "The text provides no information on what Marguerite believes about Arnetta's belief regarding that. Therefore, it can be stated that Marguerite is unaware of Arnetta believs that Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Marguerite believe about Jeanmichael's belief regarding 'Who discussed 'Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Marguerite believes that Jeanmichael is unaware of that Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style, because Jeanmichael was not involved in the conversation when this was discussed.",
+         "Marguerite believes that Jeanmichael believs that Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style.",
+         "The text provides no information on what Marguerite believes about Jeanmichael's belief regarding that. Therefore, it can be stated that Marguerite is unaware of that Arnetta is unaware of Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style.",
+         "The text provides no information on what Marguerite believes about Jeanmichael's belief regarding that. Therefore, it can be stated that Marguerite is unaware of that Arnetta believs that Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Antwann believe about Arnetta's belief regarding 'Who discussed 'Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Antwann believes that Arnetta is unaware of that Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style, because Arnetta was not involved in the conversation when this was discussed.",
+         "Antwann believes that Arnetta believs that Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style.",
+         "The text provides no information on what Antwann believes about Arnetta's belief regarding that. Therefore, it can be stated that Antwann is unaware of Arnetta is unaware of Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style.",
+         "The text provides no information on what Antwann believes about Arnetta's belief regarding that. Therefore, it can be stated that Antwann is unaware of Arnetta believs that Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Antwann believe about Jeanmichael's belief regarding 'Who discussed 'Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Antwann believes that Jeanmichael is unaware of that Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style, because Jeanmichael was not involved in the conversation when this was discussed.",
+         "Antwann believes that Jeanmichael believs that Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style.",
+         "The text provides no information on what Antwann believes about Jeanmichael's belief regarding that. Therefore, it can be stated that Antwann is unaware of that Arnetta is unaware of Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style.",
+         "The text provides no information on what Antwann believes about Jeanmichael's belief regarding that. Therefore, it can be stated that Antwann is unaware of that Arnetta believs that Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "Please choose the correct answer from the options below:",
+      "llm_answer": "NAN",
+      "options": [
+         [
+            "Marguerite tell Arnetta the Marguerite has dinner researvation with friend tonight' because Marguerite believes that Arnetta is unaware of Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style."
+         ],
+         "Marguerite tell Arnetta the Marguerite has dinner researvation with friend tonight' because Marguerite is unaware that Arnetta believes Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style.",
+         "Marguerite tell Arnetta the Marguerite has dinner researvation with friend tonight' because Marguerite believes that Arnetta believes Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style.",
+         "Marguerite tell Arnetta the Marguerite has dinner researvation with friend tonight' because Marguerite is unaware that Arnetta is unaware of Marguerite takes great pride in their music taste and considers it superior to others, and dislike Arnetta\u2019s preferred style."
+      ],
+      "category": "lieability"
+   },
+   {
+      "question": "Why did Angelik tell Berthal 'Angelik already has some plans'?",
+      "llm_answer": 1,
+      "options": [
+         "To politely decline the invitation without offending Berthal or criticizing their music taste.",
+         "Because Angelik genuinely had other plans for the evening.",
+         "Because Angelik wanted to test if Berthal would insist on the invitation.",
+         "Because Angelik prefers to spend time alone after work."
+      ],
+      "category": "justificationQA"
+   },
+   {
+      "question": "What does Angelik believe about 'Who discussed 'Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Angelik believes that Gryphon discussed Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "Angelik believes that Courtney discussed Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text did not provide enough information about this, so we can state that Angelik is unaware of Gryphon discussed Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text did not provide enough information about this, so we can state that Angelik is unaware of Berthal discussed Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Berthal believe about 'Who discussed 'Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style'?'?",
+      "llm_answer": 1,
+      "options": [
+         "The text did not provide enough information about this, so we can state that Berthal is unaware of Angelik and Gryphon discussed Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text did not provide enough information about this, so we can state that Berthal is unaware of Gryphon and Courtney discussed Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "Berthal believes that Gryphon discussed Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "Berthal believes that Gryphon and Courtney discussed Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Gryphon believe about 'Who discussed 'Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Gryphon believes that Angelik discussed Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "Gryphon believes that Angelik and Berthal discussed Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text did not provide enough information about this, so we can state that Gryphon is unaware of Angelik discussed Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text did not provide enough information about this, so we can state that Gryphon is unaware of Berthal discussed Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Berthal believe about 'Who discussed 'Angelik will go home after work'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Gryphon believe that Angelik and Courtney discussed Angelik will go home after work.",
+         "Gryphon believes that Angelik and Berthal discussed Angelik will go home after work.",
+         "The text did not provide enough information about this, so we can state that Gryphon is unaware of Angelik discussed Angelik will go home after work.",
+         "The text did not provide enough information about this, so we can state that Gryphon is unaware of Angelik and Berthal discussed Angelik will go home after work."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Angelik believe about Berthal's belief regarding 'Who discussed 'Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Angelik believes that Berthal is unaware of that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style, because Berthal was not involved in the conversation when this was discussed.",
+         "Angelik believes that Berthal believs that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text provides no information on what Angelik believes about Berthal's belief regarding that. Therefore, it can be stated that Angelik is unaware of Berthal is unaware of Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text provides no information on what Angelik believes about Berthal's belief regarding that. Therefore, it can be stated that Angelik is unaware of Berthal believs that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Angelik believe about Gryphon's belief regarding 'Who discussed 'Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Angelik believes that Gryphon believes that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "Angelik believes that Gryphon is unaware of Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style, because Gryphon was not involved in the conversation when this was discussed.",
+         "The text provides no information on what Angelik believes about Gryphon's belief regarding that. Therefore, it can be stated that Angelik is unaware of that Gryphon is unaware of Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text provides no information on what Angelik believes about Gryphon's belief regarding that. Therefore, it can be stated that Angelik is unaware of that Gryphon believs that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Angelik believe about Courtney's belief regarding 'Who discussed 'Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Angelik believes that Courtney is unaware of that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style, because Courtney was not involved in the conversation when this was discussed.",
+         "Angelik believes that Courtney believs that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text provides no information on what Angelik believes about Courtney's belief regarding that. Therefore, it can be stated that Angelik is unaware of that Berthal is unaware of Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text provides no information on what Angelik believes about Courtney's belief regarding that. Therefore, it can be stated that Angelik is unaware of that Berthal believs that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Berthal believe about Angelik's belief regarding 'Who discussed 'Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style'?'?",
+      "llm_answer": 1,
+      "options": [
+         "The text provides no information on what Berthal believes about Angelik's belief regarding that. Therefore, it can be stated that Berthal is unaware of that Angelik believes that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text provides no information on what Berthal believes about Angelik's belief regarding that. Therefore, it can be stated that Berthal is unaware of that Angelik is unaware of Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "Berthal believes that Angelik believs that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "Berthal believes that Angelik is unaware of that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style, because Angelik was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Berthal believe about Gryphon's belief regarding 'Who discussed 'Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style'?'?",
+      "llm_answer": 1,
+      "options": [
+         "The text provides no information on what Berthal believes about Gryphon's belief regarding that. Therefore, it can be stated that Berthal is unaware of that Gryphon believes that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text provides no information on what Berthal believes about Gryphon's belief regarding that. Therefore, it can be stated that Berthal is unaware of that Gryphon is unaware of Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "Berthal believes that Gryphon believs that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "Berthal believes that Gryphon is unaware of that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style, because Gryphon was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Gryphon believe about Angelik's belief regarding 'Who discussed 'Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Gryphon believes that Angelik believes that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "Gryphon believes that Angelik is unaware of Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style, because Angelik was not involved in the conversation when this was discussed.",
+         "The text provides no information on what Gryphon believes about Angelik's belief regarding that. Therefore, it can be stated that Gryphon is unaware of that Angelik is unaware of Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text provides no information on what Gryphon believes about Angelik's belief regarding that. Therefore, it can be stated that Gryphon is unaware of that Angelik believs that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Gryphon believe about Berthal's belief regarding 'Who discussed 'Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Gryphon believes that Berthal is unaware of that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style, because Berthal was not involved in the conversation when this was discussed.",
+         "Gryphon believes that Berthal believs that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text provides no information on what Gryphon believes about Berthal's belief regarding that. Therefore, it can be stated that Gryphon is unaware of Berthal is unaware of Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text provides no information on what Gryphon believes about Berthal's belief regarding that. Therefore, it can be stated that Gryphon is unaware of Berthal believs that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Gryphon believe about Courtney's belief regarding 'Who discussed 'Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Gryphon believes that Courtney is unaware of that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style, because Courtney was not involved in the conversation when this was discussed.",
+         "Gryphon believes that Courtney believs that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text provides no information on what Gryphon believes about Courtney's belief regarding that. Therefore, it can be stated that Gryphon is unaware of that Berthal is unaware of Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "The text provides no information on what Gryphon believes about Courtney's belief regarding that. Therefore, it can be stated that Gryphon is unaware of that Berthal believs that Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Angelik believe about Berthal's belief regarding 'Who discussed 'Angelik will go home after work'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Angelik believes that Berthal is unaware of that Angelik will go home after work, because Berthal was not involved in the conversation when this was discussed.",
+         "Angelik believes that Berthal believs that Angelik will go home after work.",
+         "The text provides no information on what Angelik believes about Berthal's belief regarding that. Therefore, it can be stated that Angelik is unaware of Berthal is unaware of Angelik will go home after work.",
+         "The text provides no information on what Angelik believes about Berthal's belief regarding that. Therefore, it can be stated that Angelik is unaware of Berthal believs that Angelik will go home after work."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Berthal believe about Angelik's belief regarding 'Who discussed 'Angelik will go home after work'?'?",
+      "llm_answer": 2,
+      "options": [
+         "The text provides no information on what Berthal believes about Angelik's belief regarding that. Therefore, it can be stated that Berthal is unaware of that Angelik believes that Angelik will go home after work.",
+         "The text provides no information on what Berthal believes about Angelik's belief regarding that. Therefore, it can be stated that Berthal is unaware of that Angelik is unaware of Angelik will go home after work.",
+         "Berthal believes that Angelik believs that Angelik will go home after work.",
+         "Berthal believes that Angelik is unaware of that Angelik will go home after work, because Angelik was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Berthal believe about Courtney's belief regarding 'Who discussed 'Angelik will go home after work'?'?",
+      "llm_answer": 1,
+      "options": [
+         "Berthal is unaware of Courtney's belief regarding that.",
+         "Berthal believes that Courtney is aware of that."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Gryphon believe about Courtney's belief regarding 'Who discussed 'Angelik will go home after work'?'?",
+      "llm_answer": 1,
+      "options": [
+         "Gryphon believes that Courtney believs that Angelik will go home after work.",
+         "Gryphon believes that Courtney is unaware of that Angelik will go home after work, because Courtney was not involved in the conversation when this was discussed.",
+         "The text provides no information on what Gryphon believes about Courtney's belief regarding that. Therefore, it can be stated that Gryphon is unaware of that Berthal believs that Angelik will go home after work.The text provides no information on what Gryphon believes about Courtney's belief regarding that. Therefore, it can be stated that Gryphon is unaware of that Berthal is unaware of Angelik will go home after work."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "Please choose the correct answer from the options below:",
+      "llm_answer": "NAN",
+      "options": [
+         [
+            "Angelik tell Berthal the Angelik already has some plans' because Angelik believes that Berthal is unaware of Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style."
+         ],
+         "Angelik tell Berthal the Angelik already has some plans' because Angelik is unaware that Berthal believes Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "Angelik tell Berthal the Angelik already has some plans' because Angelik believes that Berthal believes Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style.",
+         "Angelik tell Berthal the Angelik already has some plans' because Angelik is unaware that Berthal is unaware of Angelik takes great pride in their music taste and considers it superior to others, and dislike Berthal\u2019s preferred style."
+      ],
+      "category": "lieability"
+   },
+   {
+      "question": "Why did Shavante tell John 'Shavante needs to prepare for exams this weekend'?",
+      "llm_answer": 1,
+      "options": [
+         "To politely decline the invitation without offending Berthal or criticizing their music taste.",
+         "Because Angelik genuinely had other plans for the evening.",
+         "Because Angelik wanted to test if Berthal would insist on the invitation.",
+         "Because Angelik prefers to spend time alone after work."
+      ],
+      "category": "justificationQA"
+   },
+   {
+      "question": "What does Shavante believe about 'Who discussed 'John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Shavante believes that Beverlee discussed John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "Shavante believes that Penni and Beverlee discussed John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text did not provide enough information about this, so we can state that Shavante is unaware of Beverlee discussed John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text did not provide enough information about this, so we can state that Shavante is unaware of John discussed John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Shavante believe about John's belief regarding 'Who discussed 'John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Shavante believes that John is unaware of that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people, because John was not involved in the conversation when this was discussed.",
+         "Shavante believes that John believs that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Shavante believes about John's belief regarding that. Therefore, it can be stated that Shavante is unaware of John is unaware of John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Shavante believes about John's belief regarding that. Therefore, it can be stated that Shavante is unaware of John believs that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Shavante believe about Beverlee's belief regarding 'Who discussed 'John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Shavante believes that Beverlee believes that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "Shavante believes that Beverlee is unaware of John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people, because Beverlee was not involved in the conversation when this was discussed.",
+         "The text provides no information on what Shavante believes about Beverlee's belief regarding that. Therefore, it can be stated that Shavante is unaware of that Beverlee is unaware of John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Shavante believes about Beverlee's belief regarding that. Therefore, it can be stated that Shavante is unaware of that Beverlee believs that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Shavante believe about Penni's belief regarding 'Who discussed 'John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Shavante believes that Penni is unaware of that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people, because Penni was not involved in the conversation when this was discussed.",
+         "Shavante believes that Penni believs that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Shavante believes about Penni's belief regarding that. Therefore, it can be stated that Shavante is unaware of that John is unaware of John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Shavante believes about Penni's belief regarding that. Therefore, it can be stated that Shavante is unaware of that John believs that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does John believe about Penni's belief regarding 'Who discussed 'John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 1,
+      "options": [
+         "The text provides no information on what John believes about Penni's belief regarding that. Therefore, it can be stated that John is unaware of that Penni is unaware of John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what John believes about Penni's belief regarding that. Therefore, it can be stated that John is unaware of that Penni believes that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "John believes that Penni is unaware of that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people, because Penni was not involved in the conversation when this was discussed.",
+         "John believes that Penni believs that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Beverlee believe about Shavante's belief regarding 'Who discussed 'John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Beverlee believes that Shavante believes that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "Beverlee believes that Shavante is unaware of John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people, because Shavante was not involved in the conversation when this was discussed.",
+         "The text provides no information on what Beverlee believes about Shavante's belief regarding that. Therefore, it can be stated that Beverlee is unaware of that Shavante is unaware of John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Beverlee believes about Shavante's belief regarding that. Therefore, it can be stated that Beverlee is unaware of that Shavante believs that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Beverlee believe about John's belief regarding 'Who discussed 'John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Beverlee believes that John is unaware of that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people, because John was not involved in the conversation when this was discussed.",
+         "Beverlee believes that John believs that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Beverlee believes about John's belief regarding that. Therefore, it can be stated that Beverlee is unaware of John is unaware of John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Beverlee believes about John's belief regarding that. Therefore, it can be stated that Beverlee is unaware of John believs that John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "Please choose the correct answer from the options below:",
+      "llm_answer": "NAN",
+      "options": [
+         [
+            "Shavante tell John the Shavante needs to prepare for exams this weekend' because Shavante believes that John is unaware of Shavante has completed all the courses and exams this semester and plans to relax ."
+         ],
+         "Shavante tell John the Shavante needs to prepare for exams this weekend' because Shavante is unaware that John believes Shavante has completed all the courses and exams this semester and plans to relax .",
+         "Shavante tell John the Shavante needs to prepare for exams this weekend' because Shavante believes that John believes Shavante has completed all the courses and exams this semester and plans to relax .",
+         "Shavante tell John the Shavante needs to prepare for exams this weekend' because Shavante is unaware that John is unaware of Shavante has completed all the courses and exams this semester and plans to relax ."
+      ],
+      "category": "lieability"
+   },
+   {
+      "question": "Please choose the correct answer from the options below:",
+      "llm_answer": 2,
+      "options": [
+         [
+            "Shavante tell John the Shavante needs to prepare for exams this weekend' because Shavante believes that John is unaware of John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people."
+         ],
+         "Shavante tell John the Shavante needs to prepare for exams this weekend' because Shavante is unaware that John believes John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "Shavante tell John the Shavante needs to prepare for exams this weekend' because Shavante believes that John believes John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people.",
+         "Shavante tell John the Shavante needs to prepare for exams this weekend' because Shavante is unaware that John is unaware of John enjoys bringing different friends together, but Shavante is an introvert and not interested in spending time with many unfamiliar people."
+      ],
+      "category": "lieability"
+   },
+   {
+      "question": "Why did Vivian tell Tresia 'Vivian needs to prepare for exams this weekend'?",
+      "llm_answer": 1,
+      "options": [
+         "To politely decline the invitation without offending Berthal or criticizing their music taste.",
+         "Because Angelik genuinely had other plans for the evening.",
+         "Because Angelik wanted to test if Berthal would insist on the invitation.",
+         "Because Angelik prefers to spend time alone after work."
+      ],
+      "category": "justificationQA"
+   },
+   {
+      "question": "What does Tresia believe about 'Who discussed 'Vivian has completed all the courses and exams this semester and plans to relax '?'?",
+      "llm_answer": 2,
+      "options": [
+         "Margrette believe that Vivian and Buckley discussed Vivian has completed all the courses and exams this semester and plans to relax .",
+         "Margrette believes that Buckley and Tresia discussed Vivian has completed all the courses and exams this semester and plans to relax .",
+         "The text did not provide enough information about this, so we can state that Margrette is unaware of Buckley discussed Vivian has completed all the courses and exams this semester and plans to relax .",
+         "The text did not provide enough information about this, so we can state that Margrette is unaware of Vivian and Tresia discussed Vivian has completed all the courses and exams this semester and plans to relax ."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Tresia believe about Margrette's belief regarding 'Who discussed 'Tresia enjoys bringing different friends together, but Vivian is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 1,
+      "options": [
+         "The text provides no information on what Tresia believes about Margrette's belief regarding that. Therefore, it can be stated that Tresia is unaware of that Margrette believes that Tresia enjoys bringing different friends together, but Vivian is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Tresia believes about Margrette's belief regarding that. Therefore, it can be stated that Tresia is unaware of that Margrette is unaware of Tresia enjoys bringing different friends together, but Vivian is an introvert and not interested in spending time with many unfamiliar people.",
+         "Tresia believes that Margrette believs that Tresia enjoys bringing different friends together, but Vivian is an introvert and not interested in spending time with many unfamiliar people.",
+         "Tresia believes that Margrette is unaware of that Tresia enjoys bringing different friends together, but Vivian is an introvert and not interested in spending time with many unfamiliar people, because Margrette was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Margrette believe about Buckley's belief regarding 'Who discussed 'Tresia enjoys bringing different friends together, but Vivian is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Margrette believes that Buckley is unaware of that Tresia enjoys bringing different friends together, but Vivian is an introvert and not interested in spending time with many unfamiliar people, because Buckley was not involved in the conversation when this was discussed.",
+         "Margrette believes that Buckley believs that Tresia enjoys bringing different friends together, but Vivian is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Margrette believes about Buckley's belief regarding that. Therefore, it can be stated that Margrette is unaware of that Tresia is unaware of Tresia enjoys bringing different friends together, but Vivian is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Margrette believes about Buckley's belief regarding that. Therefore, it can be stated that Margrette is unaware of that Tresia believs that Tresia enjoys bringing different friends together, but Vivian is an introvert and not interested in spending time with many unfamiliar people."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Margrette believe about Buckley's belief regarding 'Who discussed 'Vivian has completed all the courses and exams this semester and plans to relax '?'?",
+      "llm_answer": 2,
+      "options": [
+         "Margrette believes that Buckley believs that Vivian has completed all the courses and exams this semester and plans to relax .",
+         "Margrette believes that Buckley is unaware of that Vivian has completed all the courses and exams this semester and plans to relax , because Buckley was not involved in the conversation when this was discussed.",
+         "The text provides no information on what Margrette believes about Buckley's belief regarding that. Therefore, it can be stated that Margrette is unaware of that Tresia believs that Vivian has completed all the courses and exams this semester and plans to relax .The text provides no information on what Margrette believes about Buckley's belief regarding that. Therefore, it can be stated that Margrette is unaware of that Tresia is unaware of Vivian has completed all the courses and exams this semester and plans to relax ."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "Why did Marquitta tell Fabian 'Marquitta needs to prepare for exams this weekend'?",
+      "llm_answer": 1,
+      "options": [
+         "To politely decline the invitation without offending Berthal or criticizing their music taste.",
+         "Because Angelik genuinely had other plans for the evening.",
+         "Because Angelik wanted to test if Berthal would insist on the invitation.",
+         "Because Angelik prefers to spend time alone after work."
+      ],
+      "category": "justificationQA"
+   },
+   {
+      "question": "What does Marquitta believe about 'Who discussed 'Marquitta plans to relax and chill this weekend'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Marquitta believes that Braiden and Bayah discussed Marquitta plans to relax and chill this weekend.",
+         "Braiden believes that Marquitta and Fabian discussed Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text did not provide enough information about this, so we can state that Marquitta is unaware of Bayah discussed Marquitta plans to relax and chill this weekend.",
+         "The text did not provide enough information about this, so we can state that Marquitta is unaware of Fabian discussed Marquitta plans to relax and chill this weekend."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Fabian believe about 'Who discussed 'Marquitta plans to relax and chill this weekend'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Braiden believe that Marquitta and Bayah discussed Marquitta plans to relax and chill this weekend.",
+         "Braiden believes that Fabian discussed Marquitta plans to relax and chill this weekend.",
+         "The text did not provide enough information about this, so we can state that Braiden is unaware of Marquitta discussed Marquitta plans to relax and chill this weekend.",
+         "The text did not provide enough information about this, so we can state that Braiden is unaware of Bayah and Fabian discussed Marquitta plans to relax and chill this weekend."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Marquitta believe about Fabian's belief regarding 'Who discussed 'Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Marquitta believes that Fabian is unaware of that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people, because Fabian was not involved in the conversation when this was discussed.",
+         "Marquitta believes that Fabian believs that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Marquitta believes about Fabian's belief regarding that. Therefore, it can be stated that Marquitta is unaware of Fabian is unaware of Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Marquitta believes about Fabian's belief regarding that. Therefore, it can be stated that Marquitta is unaware of Fabian believs that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Fabian believe about Marquitta's belief regarding 'Who discussed 'Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 1,
+      "options": [
+         "The text provides no information on what Fabian believes about Marquitta's belief regarding that. Therefore, it can be stated that Fabian is unaware of that Marquitta believes that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Fabian believes about Marquitta's belief regarding that. Therefore, it can be stated that Fabian is unaware of that Marquitta is unaware of Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "Fabian believes that Marquitta believs that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "Fabian believes that Marquitta is unaware of that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people, because Marquitta was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Fabian believe about Braiden's belief regarding 'Who discussed 'Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 1,
+      "options": [
+         "The text provides no information on what Fabian believes about Braiden's belief regarding that. Therefore, it can be stated that Fabian is unaware of that Braiden believes that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Fabian believes about Braiden's belief regarding that. Therefore, it can be stated that Fabian is unaware of that Braiden is unaware of Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "Fabian believes that Braiden believs that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "Fabian believes that Braiden is unaware of that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people, because Braiden was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Fabian believe about Bayah's belief regarding 'Who discussed 'Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 1,
+      "options": [
+         "The text provides no information on what Fabian believes about Bayah's belief regarding that. Therefore, it can be stated that Fabian is unaware of that Bayah is unaware of Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Fabian believes about Bayah's belief regarding that. Therefore, it can be stated that Fabian is unaware of that Bayah believes that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "Fabian believes that Bayah is unaware of that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people, because Bayah was not involved in the conversation when this was discussed.",
+         "Fabian believes that Bayah believs that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Braiden believe about Fabian's belief regarding 'Who discussed 'Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Braiden believes that Fabian is unaware of that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people, because Fabian was not involved in the conversation when this was discussed.",
+         "Braiden believes that Fabian believs that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Braiden believes about Fabian's belief regarding that. Therefore, it can be stated that Braiden is unaware of Fabian is unaware of Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Braiden believes about Fabian's belief regarding that. Therefore, it can be stated that Braiden is unaware of Fabian believs that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Braiden believe about Bayah's belief regarding 'Who discussed 'Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Braiden believes that Bayah is unaware of that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people, because Bayah was not involved in the conversation when this was discussed.",
+         "Braiden believes that Bayah believs that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Braiden believes about Bayah's belief regarding that. Therefore, it can be stated that Braiden is unaware of that Fabian is unaware of Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people.",
+         "The text provides no information on what Braiden believes about Bayah's belief regarding that. Therefore, it can be stated that Braiden is unaware of that Fabian believs that Fabian enjoys bringing different friends together, but Marquitta is an introvert and not interested in spending time with many unfamiliar people."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Fabian believe about Marquitta's belief regarding 'Who discussed 'Marquitta plans to relax and chill this weekend'?'?",
+      "llm_answer": 2,
+      "options": [
+         "The text provides no information on what Fabian believes about Marquitta's belief regarding that. Therefore, it can be stated that Fabian is unaware of that Marquitta believes that Marquitta plans to relax and chill this weekend.",
+         "The text provides no information on what Fabian believes about Marquitta's belief regarding that. Therefore, it can be stated that Fabian is unaware of that Marquitta is unaware of Marquitta plans to relax and chill this weekend.",
+         "Fabian believes that Marquitta believs that Marquitta plans to relax and chill this weekend.",
+         "Fabian believes that Marquitta is unaware of that Marquitta plans to relax and chill this weekend, because Marquitta was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Braiden believe about Bayah's belief regarding 'Who discussed 'Marquitta plans to relax and chill this weekend'?'?",
+      "llm_answer": 1,
+      "options": [
+         "Braiden believes that Bayah believs that Marquitta plans to relax and chill this weekend.",
+         "Braiden believes that Bayah is unaware of that Marquitta plans to relax and chill this weekend, because Bayah was not involved in the conversation when this was discussed.",
+         "The text provides no information on what Braiden believes about Bayah's belief regarding that. Therefore, it can be stated that Braiden is unaware of that Fabian believs that Marquitta plans to relax and chill this weekend.The text provides no information on what Braiden believes about Bayah's belief regarding that. Therefore, it can be stated that Braiden is unaware of that Fabian is unaware of Marquitta plans to relax and chill this weekend."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "Please choose the correct answer from the options below:",
+      "llm_answer": 2,
+      "options": [
+         [
+            "Marquitta tell Fabian the Marquitta needs to prepare for exams this weekend' because Marquitta believes that Fabian is unaware of Marquitta plans to relax and chill this weekend."
+         ],
+         "Marquitta tell Fabian the Marquitta needs to prepare for exams this weekend' because Marquitta is unaware that Fabian believes Marquitta plans to relax and chill this weekend.",
+         "Marquitta tell Fabian the Marquitta needs to prepare for exams this weekend' because Marquitta believes that Fabian believes Marquitta plans to relax and chill this weekend.",
+         "Marquitta tell Fabian the Marquitta needs to prepare for exams this weekend' because Marquitta is unaware that Fabian is unaware of Marquitta plans to relax and chill this weekend."
+      ],
+      "category": "lieability"
+   },
+   {
+      "question": "Why did Migdalia tell Julita 'Migdalia already has plan for tonight'?",
+      "llm_answer": 1,
+      "options": [
+         "To politely decline the invitation without offending Berthal or criticizing their music taste.",
+         "Because Angelik genuinely had other plans for the evening.",
+         "Because Angelik wanted to test if Berthal would insist on the invitation.",
+         "Because Angelik prefers to spend time alone after work."
+      ],
+      "category": "justificationQA"
+   },
+   {
+      "question": "What does Migdalia believe about 'Who discussed 'Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia'?'?",
+      "llm_answer": 2,
+      "options": [
+         "Migdalia believes that Cyriah discussed Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia.",
+         "Migdalia believes that Tanisi discussed Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia.",
+         "The text did not provide enough information about this, so we can state that Migdalia is unaware of Cyriah discussed Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia.",
+         "The text did not provide enough information about this, so we can state that Migdalia is unaware of Julita and Cyriah discussed Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Migdalia believe about Julita's belief regarding 'Who discussed 'Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Migdalia believes that Julita is unaware of that Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia, because Julita was not involved in the conversation when this was discussed.",
+         "Migdalia believes that Julita believs that Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia.",
+         "The text provides no information on what Migdalia believes about Julita's belief regarding that. Therefore, it can be stated that Migdalia is unaware of Julita is unaware of Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia.",
+         "The text provides no information on what Migdalia believes about Julita's belief regarding that. Therefore, it can be stated that Migdalia is unaware of Julita believs that Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Migdalia believe about Tanisi's belief regarding 'Who discussed 'Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Migdalia believes that Tanisi is unaware of that Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia, because Tanisi was not involved in the conversation when this was discussed.",
+         "Migdalia believes that Tanisi believs that Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia.",
+         "The text provides no information on what Migdalia believes about Tanisi's belief regarding that. Therefore, it can be stated that Migdalia is unaware of that Julita is unaware of Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia.",
+         "The text provides no information on what Migdalia believes about Tanisi's belief regarding that. Therefore, it can be stated that Migdalia is unaware of that Julita believs that Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Julita believe about Cyriah's belief regarding 'Who discussed 'Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia'?'?",
+      "llm_answer": 2,
+      "options": [
+         "The text provides no information on what Julita believes about Cyriah's belief regarding that. Therefore, it can be stated that Julita is unaware of that Cyriah believes that Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia.",
+         "The text provides no information on what Julita believes about Cyriah's belief regarding that. Therefore, it can be stated that Julita is unaware of that Cyriah is unaware of Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia.",
+         "Julita believes that Cyriah believs that Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia.",
+         "Julita believes that Cyriah is unaware of that Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia, because Cyriah was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Cyriah believe about Tanisi's belief regarding 'Who discussed 'Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Cyriah believes that Tanisi is unaware of that Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia, because Tanisi was not involved in the conversation when this was discussed.",
+         "Cyriah believes that Tanisi believs that Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia.",
+         "The text provides no information on what Cyriah believes about Tanisi's belief regarding that. Therefore, it can be stated that Cyriah is unaware of that Julita is unaware of Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia.",
+         "The text provides no information on what Cyriah believes about Tanisi's belief regarding that. Therefore, it can be stated that Cyriah is unaware of that Julita believs that Migdalia enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Migdalia."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "Please choose the correct answer from the options below:",
+      "llm_answer": "NAN",
+      "options": [
+         [
+            "Migdalia tell Julita the Migdalia already has plan for tonight' because Migdalia believes that Julita is unaware of Migdalia hasn\u2019t planned anything for tonight yet."
+         ],
+         "Migdalia tell Julita the Migdalia already has plan for tonight' because Migdalia is unaware that Julita believes Migdalia hasn\u2019t planned anything for tonight yet.",
+         "Migdalia tell Julita the Migdalia already has plan for tonight' because Migdalia believes that Julita believes Migdalia hasn\u2019t planned anything for tonight yet.",
+         "Migdalia tell Julita the Migdalia already has plan for tonight' because Migdalia is unaware that Julita is unaware of Migdalia hasn\u2019t planned anything for tonight yet."
+      ],
+      "category": "lieability"
+   },
+   {
+      "question": "Why did Ginger tell Kristyna 'Ginger already has plan for tonight'?",
+      "llm_answer": 1,
+      "options": [
+         "To politely decline the invitation without offending Berthal or criticizing their music taste.",
+         "Because Angelik genuinely had other plans for the evening.",
+         "Because Angelik wanted to test if Berthal would insist on the invitation.",
+         "Because Angelik prefers to spend time alone after work."
+      ],
+      "category": "justificationQA"
+   },
+   {
+      "question": "What does Ginger believe about Dewane's belief regarding 'Who discussed 'Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger'?'?",
+      "llm_answer": 3,
+      "options": [
+         "Ginger believes that Dewane is unaware of that Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger, because Dewane was not involved in the conversation when this was discussed.",
+         "Ginger believes that Dewane believs that Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger.",
+         "The text provides no information on what Ginger believes about Dewane's belief regarding that. Therefore, it can be stated that Ginger is unaware of that Kristyna is unaware of Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger.",
+         "The text provides no information on what Ginger believes about Dewane's belief regarding that. Therefore, it can be stated that Ginger is unaware of that Kristyna believs that Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Kristyna believe about Ginger's belief regarding 'Who discussed 'Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger'?'?",
+      "llm_answer": 2,
+      "options": [
+         "The text provides no information on what Kristyna believes about Ginger's belief regarding that. Therefore, it can be stated that Kristyna is unaware of that Ginger believes that Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger.",
+         "The text provides no information on what Kristyna believes about Ginger's belief regarding that. Therefore, it can be stated that Kristyna is unaware of that Ginger is unaware of Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger.",
+         "Kristyna believes that Ginger believs that Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger.",
+         "Kristyna believes that Ginger is unaware of that Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger, because Ginger was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "What does Kristyna believe about Eugena's belief regarding 'Who discussed 'Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger'?'?",
+      "llm_answer": 2,
+      "options": [
+         "The text provides no information on what Kristyna believes about Eugena's belief regarding that. Therefore, it can be stated that Kristyna is unaware of that Eugena believes that Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger.",
+         "The text provides no information on what Kristyna believes about Eugena's belief regarding that. Therefore, it can be stated that Kristyna is unaware of that Eugena is unaware of Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger.",
+         "Kristyna believes that Eugena believs that Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger.",
+         "Kristyna believes that Eugena is unaware of that Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger, because Eugena was not involved in the conversation when this was discussed."
+      ],
+      "category": "beliefQAs"
+   },
+   {
+      "question": "Please choose the correct answer from the options below:",
+      "llm_answer": 2,
+      "options": [
+         [
+            "Ginger tell Kristyna the Ginger already has plan for tonight' because Ginger believes that Kristyna is unaware of Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger."
+         ],
+         "Ginger tell Kristyna the Ginger already has plan for tonight' because Ginger is unaware that Kristyna believes Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger.",
+         "Ginger tell Kristyna the Ginger already has plan for tonight' because Ginger believes that Kristyna believes Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger.",
+         "Ginger tell Kristyna the Ginger already has plan for tonight' because Ginger is unaware that Kristyna is unaware of Ginger enjoys taking their time comparing and selecting items, trying out different options, and prefers shopping alone. Having others wait creates pressure for Ginger."
+      ],
+      "category": "lieability"
+   }
+]

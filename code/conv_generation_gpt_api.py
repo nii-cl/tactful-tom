@@ -139,7 +139,7 @@ def generate_natural_conversation_step4(filled_step_text: str) -> str:
                     {
                         "type": "text",
                         "text": "You are an expert in dialogue generation and natural conversation. Engage in fluent, context-aware, and coherent dialogues while maintaining consisteny.\
-                                 The conversation should consist of 6 exchanges."
+                                 The conversation should consist of 8 exchanges."
                     }
                 ]
             },
