@@ -1,0 +1,142 @@
+{
+  "2-10-0-0": {
+    "truth": {
+      "correct_answer": "Because Rayna wants to comfort Lynn and protect her from heartbreak about her grandpa's passing.",
+      "wrong_answers": [
+        "Because grandpa became a star in the sky who watches over them, so he is not actually gone.",
+        "Because Rayna is annoyed by Lynn's questions, she tells her a comforting lie to avoid further emotional distress.",
+        "Because Rayna didn't have time to explain the situation, she quickly invented the story about the star."
+      ]
+    }
+  },
+  "2-10-0-1": {
+    "truth": {
+      "correct_answer": "Because Lizabeth wants to comfort Erica by creating a gentle story about grandpa instead of revealing the harsh truth.",
+      "wrong_answers": [
+        "Because Erica's grandpa became a star in the sky who watches over them.",
+        "Because Lizabeth is annoyed by Erica's questions and doesn't want to deal with her feelings.",
+        "Because Erica is upset about not visiting the park, so Lizabeth distracts her with a tale."
+      ]
+    }
+  },
+  "2-10-1-0": {
+    "truth": {
+      "correct_answer": "Because Rona wants to comfort Camdyn and spare her the heartbreak of losing her close grandma.",
+      "wrong_answers": [
+        "Because Camdyn's grandma has gone to live in another beautiful world, so she won't be coming back.",
+        "Because Rona finds Camdyn annoying and doesn't want to deal with her sadness over grandma.",
+        "Because grandma is on a secret mission in a faraway place and cannot return."
+      ]
+    }
+  },
+  "2-10-1-1": {
+    "truth": {
+      "correct_answer": "Because Raynard wants to protect Obie from immediate heartbreak and give him time to adjust gently.",
+      "wrong_answers": [
+        "Because Obie's grandma has gone to live in another beautiful world, so Obie doesn't need to worry about her.",
+        "Because Raynard and Destinee are annoyed with having to explain tough situations to Obie, so they say grandma moved away.",
+        "Because Raynard heard a different story from someone else and thinks grandma moved to a retirement community."
+      ]
+    }
+  },
+  "2-10-2-0": {
+    "truth": {
+      "correct_answer": "Vance and Karmelo want to comfort Rory and prevent the child from being heartbroken over the lost pet.",
+      "wrong_answers": [
+        "Vance and Karmelo tell Rory the pet is playing on a farm and will come back later.",
+        "Vance is annoyed by Rory's constant crying and wants it to stop.",
+        "Vance thinks the pet might have been taken by another family."
+      ]
+    }
+  },
+  "2-10-2-1": {
+    "truth": {
+      "correct_answer": "Because Jupiter and Jackie want to comfort Catherine by not telling her the pet's sad fate.",
+      "wrong_answers": [
+        "Because Jupiter and Jackie tell Catherine the cat is on a big, happy farm.",
+        "Because Jupiter and Jackie are secretly annoyed by the cat and didn't want it around.",
+        "Because Jupiter and Jackie were planning a trip to the countryside anyway."
+      ]
+    }
+  },
+  "2-10-2-2": {
+    "truth": {
+      "correct_answer": "Because Rafael wants to protect Kylin from heartbreak by suggesting the pet is temporarily on a happy farm.",
+      "wrong_answers": [
+        "Because Rafael and Cleo genuinely believe the pet is on a big, happy farm and will return soon.",
+        "Because Rafael dislikes the truth about the missing pet and decides to let Kylin deal with false hope.",
+        "Because Rafael and Cleo forgot to feed the pet and made up the story to hide their mistake."
+      ]
+    }
+  },
+  "2-10-3-0": {
+    "truth": {
+      "correct_answer": "Easter and Marleen want to comfort Leora and help her feel safe and secure at night.",
+      "wrong_answers": [
+        "Easter and Marleen explain to Leora that the shadows are friendly night creatures that protect her.",
+        "Easter and Marleen are annoyed by Leora's frequent cries and want her to stop bothering them at night.",
+        "Easter wants to paint the walls a new color, so they change the story about the shadows."
+      ]
+    }
+  },
+  "2-10-3-1": {
+    "truth": {
+      "correct_answer": "Because Maggie and Rio want to comfort Eldridge and prevent him from feeling scared and insecure at night.",
+      "wrong_answers": [
+        "Because the shadows are actually friendly night creatures guiding and protecting Eldridge while sleeping.",
+        "Because Eldridge is always annoyed by the shadows and dislikes how they ruin sleep time.",
+        "Because Maggie and Rio want to keep Eldridge's mind off the daylight for better sleep."
+      ]
+    }
+  },
+  "2-10-4-0": {
+    "truth": {
+      "correct_answer": "Andrea lies to protect Bertha's feelings and prevent her from feeling abandoned by her parents.",
+      "wrong_answers": [
+        "Because James needs to live closer to the office for a secret work project that he’s not allowed to talk about.",
+        "Because Andrea dislikes James and doesn't want to live with him anymore, so he needs to move.",
+        "Because the old house is undergoing renovations and won't be suitable for a while."
+      ]
+    }
+  },
+  "2-10-4-1": {
+    "truth": {
+      "correct_answer": "Because Antwon wants to protect Raya's feelings and avoid distressing her about the parents' separation.",
+      "wrong_answers": [
+        "Because Loralei needs to live closer to the office for a secret work project that he's not allowed to talk about.",
+        "Because Raya annoys Antwon, and he doesn't want to be around her anymore.",
+        "Because Antwon received a job offer in another city, so he has to move."
+      ]
+    }
+  },
+  "2-10-5-0": {
+    "truth": {
+      "correct_answer": "Because Homer and Danielle want to comfort Norene and protect her from the harsh reality of the pet's fate.",
+      "wrong_answers": [
+        "Because the pet was chosen by the Starlight Fairy to be her special companion in the enchanted forest, where all animals live forever young.",
+        "Because Homer is annoyed by Norene's constant crying and wants her to stop being so dramatic about the missing pet.",
+        "Because Homer and Danielle believe the rabbit just wandered into a neighbor's yard and is temporarily lost."
+      ]
+    }
+  },
+  "2-10-5-1": {
+    "truth": {
+      "correct_answer": "Because Kalyn wants to comfort Jim and protect him from the harsh reality of the pet's death.",
+      "wrong_answers": [
+        "Because the pet was chosen by the Starlight Fairy to be her special companion in the enchanted forest.",
+        "Because Kalyn finds Jim's crying annoying and wants him to stop without caring about the truth.",
+        "Because Kalyn wants Jim to focus on his upcoming school play instead of worrying about the missing pet."
+      ]
+    }
+  },
+  "2-10-5-2": {
+    "truth": {
+      "correct_answer": "Because Kalyn wants to comfort Jim and spare him the pain of knowing the pet may not return.",
+      "wrong_answers": [
+        "Because the pet was chosen by the Starlight Fairy to be her special companion in the enchanted forest.",
+        "Because Kalyn is frustrated with Jim being upset over the lost pet.",
+        "Because Leroy found a note indicating the pet was gifted to a friend far away."
+      ]
+    }
+  }
+}

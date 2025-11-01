@@ -1,0 +1,252 @@
+{
+  "4-12-0-1": {
+    "truth": {
+      "correct_answer": "Because Osvaldo and Cora want to keep Arjun happy and support his efforts during the Thanksgiving celebration.",
+      "wrong_answers": [
+        "Because Arjun's pie tastes fabulous and everyone looks forward to having it again.",
+        "Because Osvaldo is annoyed with Arjun's cooking skills and doesn't like his pie.",
+        "Because Osvaldo is allergic to cranberries and couldn't eat the pie at all."
+      ]
+    }
+  },
+  "4-12-0-2": {
+    "truth": {
+      "correct_answer": "Jannie and Clair want to maintain James's enthusiasm and encourage his efforts at Thanksgiving, avoiding hurting his feelings.",
+      "wrong_answers": [
+        "Because Jannie and Clair genuinely found James's pie to be fabulous and thoroughly enjoyed the innovative flavors.",
+        "Because Jannie and Clair found the pie unpleasant and were annoyed by James's attempt at creativity during Thanksgiving.",
+        "Because Jannie and Clair were distracted by an unrelated event and didn't fully appreciate the pie due to being preoccupied."
+      ]
+    }
+  },
+  "4-12-1-1": {
+    "truth": {
+      "correct_answer": "Kathryn and Carrington want to maintain the festive mood by complimenting Darla's dessert, sparing her feelings.",
+      "wrong_answers": [
+        "Because Kathryn and Carrington genuinely think Darla's yogurt dessert tastes fabulous and enjoy it a lot.",
+        "Because Kathryn and Carrington are annoyed by Darla's cooking mistakes and want to express their displeasure silently.",
+        "Because Kathryn and Carrington rushed through dinner, so they didn't have time to critique the dishes."
+      ]
+    }
+  },
+  "4-12-1-2": {
+    "truth": {
+      "correct_answer": "Because Atara and Easton want to encourage Esmeralda for her effort and avoid making her feel bad during Christmas dinner.",
+      "wrong_answers": [
+        "Because Atara and Easton say Esmeralda's yogurt tastes fabulous and they genuinely believe it.",
+        "Because Atara and Easton are frustrated with Esmeralda's cooking mistake and want to express their annoyance.",
+        "Because Atara and Easton have already eaten too much dinner and don't want any dessert."
+      ]
+    }
+  },
+  "4-13-0-0": {
+    "truth": {
+      "correct_answer": "Doyle wants to spare Kaleo's feelings and maintain their friendship by expressing gratitude.",
+      "wrong_answers": [
+        "Because Doyle really loves the flowers and is genuinely grateful for Kaleo's thoughtful gift.",
+        "Because Doyle is annoyed by Kaleo's gift choice and plans to avoid similar gifts in the future.",
+        "Because Doyle wanted to make Blake laugh by pretending to love unusually colorful gifts."
+      ]
+    }
+  },
+  "4-13-0-1": {
+    "truth": {
+      "correct_answer": "Parker wants to appreciate the gesture and avoid making Mavis feel bad about her thoughtful gift.",
+      "wrong_answers": [
+        "Parker genuinely loves the bouquet and thinks they are truly gorgeous and wonderful.",
+        "Parker dislikes Mavis's gift choices and finds them annoying, so rarely appreciates the gifts Mavis gives.",
+        "Parker is allergic to flowers, which is the reason Parker never buys them for himself."
+      ]
+    }
+  },
+  "4-13-0-2": {
+    "truth": {
+      "correct_answer": "Because Nevin wants to spare Kendra's feelings and maintain their friendship by pretending to appreciate the gift.",
+      "wrong_answers": [
+        "Because Nevin says the flower is gorgeous and loves it.",
+        "Because Nevin is annoyed by the way Kendra chooses gifts.",
+        "Because Nevin already has too many plants at home and doesn't need another one."
+      ]
+    }
+  },
+  "4-13-1-0": {
+    "truth": {
+      "correct_answer": "Because Brennon wants to spare Kiarra's feelings and maintain the friendship without making her feel bad about the gift.",
+      "wrong_answers": [
+        "Because Brennon actually loves the truffle chocolate and is enjoying it very much.",
+        "Because Brennon is annoyed that Kiarra didn't consider his dietary preferences.",
+        "Because Brennon already received another box of chocolates from someone else."
+      ]
+    }
+  },
+  "4-13-1-1": {
+    "truth": {
+      "correct_answer": "Because Ford wants to spare Felicia's feelings about the gift despite his strict food preferences.",
+      "wrong_answers": [
+        "Because Ford really likes the truffle chocolates and enjoys eating them.",
+        "Because Ford dislikes the chocolates and is annoyed about receiving them as a gift.",
+        "Because Ford is allergic to chocolates and can't eat them at all."
+      ]
+    }
+  },
+  "4-13-1-2": {
+    "truth": {
+      "correct_answer": "Because Davey wants to express gratitude without making Thad feel bad about the gift choice.",
+      "wrong_answers": [
+        "Because Davey truly loves the truffle chocolate and is enjoying every bite of it.",
+        "Because Davey finds Thad's gift annoying and wishes he had given something else more useful.",
+        "Because Davey is planning a surprise party for Thad and can't discuss how he feels about the gift yet."
+      ]
+    }
+  },
+  "4-13-2-0": {
+    "truth": {
+      "correct_answer": "Because Holden wants to show appreciation to maintain their friendship and avoid hurting Saul's feelings.",
+      "wrong_answers": [
+        "Because Holden actually likes the skincare gift set and is genuinely happy with it.",
+        "Because Holden is annoyed by Saul's choice and doesn't appreciate being given gifts.",
+        "Because Holden is allergic to the products but doesn't want to mention it."
+      ]
+    }
+  },
+  "4-13-2-1": {
+    "truth": {
+      "correct_answer": "Because Jeramie wants to avoid making Sandie feel bad about the makeup gift choice.",
+      "wrong_answers": [
+        "Because Jeramie says they like it and appreciates the thoughtful gesture from Sandie.",
+        "Because Jeramie feels annoyed that Sandie never listens to their preferences and dislikes getting gifts.",
+        "Because Jeramie needs to rush to a work meeting and can't focus on the conversation."
+      ]
+    }
+  },
+  "4-13-2-2": {
+    "truth": {
+      "correct_answer": "Because Jeramie wants to maintain friendship with Sandie by showing appreciation, even if the gift wasn't a perfect match.",
+      "wrong_answers": [
+        "Because Jeramie actually likes the makeup gift set, as it suits their preferences perfectly.",
+        "Because Jeramie feels annoyed that Sandie doesn't understand their preferences and dislikes receiving unsuitable gifts.",
+        "Because Jeramie promised never to criticize a gift after an unrelated incident last year."
+      ]
+    }
+  },
+  "4-13-3-0": {
+    "truth": {
+      "correct_answer": "Amara wants to avoid making Pearl feel bad about her choice and maintain their friendship.",
+      "wrong_answers": [
+        "Amara says she genuinely likes the boho rug Pearl chose.",
+        "Amara is annoyed by Pearl's constant poor taste in decor gifts.",
+        "Amara is worried the rug will clash with her new furniture delivery."
+      ]
+    }
+  },
+  "4-13-3-1": {
+    "truth": {
+      "correct_answer": "Because Tyrique wants to spare Shaquana's feelings and maintain their friendship.",
+      "wrong_answers": [
+        "Because Tyrique actually likes the rug and thinks it will go well with the new house.",
+        "Because Tyrique dislikes Shaquana and wants to distance from her gift-giving habits.",
+        "Because Tyrique is worried about the rug being expensive and wants to return it."
+      ]
+    }
+  },
+  "4-13-3-2": {
+    "truth": {
+      "correct_answer": "Because Shauna wants to appreciate Everest's gesture without making him feel bad about the mismatch.",
+      "wrong_answers": [
+        "Because Shauna really likes the boho rug with tassels from Ikea.",
+        "Because Shauna is annoyed by Everest's choice and doesn't like his taste in decor.",
+        "Because Shauna is planning to redecorate soon and will need new items anyway."
+      ]
+    }
+  },
+  "4-13-4-0": {
+    "truth": {
+      "correct_answer": "Because Shauna wants to avoid making Everest feel bad about the gift choice, maintaining a friendly relationship.",
+      "wrong_answers": [
+        "Because Shauna genuinely likes the cowboy hat and thinks Everest has great taste in gifts.",
+        "Because Shauna dislikes receiving gifts and feels annoyed whenever someone gives her something.",
+        "Because Shauna is planning to surprise someone else with the hat, so she pretends to like it."
+      ]
+    }
+  },
+  "4-13-4-1": {
+    "truth": {
+      "correct_answer": "Because Mona wants to graciously accept the gift to avoid making Anita feel bad about her thoughtful gesture.",
+      "wrong_answers": [
+        "Because Mona genuinely likes the Western-style cowboy hat from Zara given by Anita.",
+        "Because Mona dislikes Anita for giving her a gift that does not suit her style.",
+        "Because Mona accidentally left all her hats at home, so efficiently accepts Anita's gift."
+      ]
+    }
+  },
+  "4-13-4-2": {
+    "truth": {
+      "correct_answer": "Because Byron wants to spare Esmae's feelings and maintain a positive atmosphere despite the gift not suiting his personal style.",
+      "wrong_answers": [
+        "Because Byron likes the Western-style cowboy hat with decorative stitching gifted by Esmae, so he fully appreciates her choice.",
+        "Because Byron dislikes gifts from colleagues and finds the situation annoying, so he pretends to appreciate it to avoid confrontation.",
+        "Because Byron already has several Western-style hats at home and doesn't want Esmae to know, so he pretends to like it."
+      ]
+    }
+  },
+  "4-13-5-0": {
+    "truth": {
+      "correct_answer": "Because Esmeralda wants to spare Bernadette's feelings and maintain a good relationship by expressing appreciation.",
+      "wrong_answers": [
+        "Because Esmeralda genuinely loves the vibrant and bold design of the plates and is thrilled to use them.",
+        "Because Esmeralda dislikes the plates and feels irritated about receiving something that doesn't suit her taste.",
+        "Because Esmeralda decided to say she liked them because she was feeling sleepy and wasn't thinking clearly."
+      ]
+    }
+  },
+  "4-13-5-1": {
+    "truth": {
+      "correct_answer": "Because Camilla wants to spare Carlo's feelings and avoid making him feel bad about his gift choice.",
+      "wrong_answers": [
+        "Because Camilla actually loves the gift and appreciates Carlo's taste in choosing the plate set.",
+        "Because Camilla dislikes receiving gifts from Carlo and finds his gestures annoying and intrusive.",
+        "Because Camilla already has too many plates at home and doesn't need another set."
+      ]
+    }
+  },
+  "4-13-5-2": {
+    "truth": {
+      "correct_answer": "Because Terah wants to prevent Beverly from feeling upset about her choice of gift.",
+      "wrong_answers": [
+        "Because Terah truly loves the Ikea plates and thinks they are perfect for her new home.",
+        "Because Terah doesn't like the design and feels annoyed that Beverly chose such a mismatched set.",
+        "Because Terah already has a complete set of plates, so doesn't need any more."
+      ]
+    }
+  },
+  "4-13-6-0": {
+    "truth": {
+      "correct_answer": "Because Francis wants to avoid making Pearl feel bad about the ill-chosen gift.",
+      "wrong_answers": [
+        "Because Francis says, 'Thank you so much, I like it.'",
+        "Because Francis dislikes scented candles and finds the fragrance annoying.",
+        "Because Francis is allergic to candles and avoids using them at home."
+      ]
+    }
+  },
+  "4-13-6-1": {
+    "truth": {
+      "correct_answer": "Because Maia wants to spare Kiani's feelings and maintain a positive atmosphere by appreciating the gift.",
+      "wrong_answers": [
+        "Because Maia genuinely likes the Ikea candle with its strong, unusual fragrance.",
+        "Because Maia is annoyed by Kiani's choice and doesn't want to use the candle.",
+        "Because Maia is allergic to candles and cannot use them at all."
+      ]
+    }
+  },
+  "4-13-6-2": {
+    "truth": {
+      "correct_answer": "Because Nanette wants to keep Ariyana from feeling bad about their gift choice.",
+      "wrong_answers": [
+        "Because Nanette genuinely loves the scented candle Ariyana gifted her from Ikea.",
+        "Because Nanette finds the fragrance overwhelming and is annoyed by it.",
+        "Because Nanette recently redecorated her home and is out of space for new items."
+      ]
+    }
+  }
+}

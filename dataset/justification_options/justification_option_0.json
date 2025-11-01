@@ -1,0 +1,362 @@
+{
+    "0-1-0-0": {
+        "truth": {
+            "correct_answer": "Because Jamey wants to politely decline without making Pearl feel bad about choosing an expensive restaurant.",
+            "wrong_answers": [
+                "Because Jamey actually has to work this weekend, so cannot have dinner with Pearl together at the fancy Italian restaurant this weekend.",
+                "Because Jamey dislikes Pearl and doesn't want to spend time with him, so do not want to have dinner with Pearl together.",
+                "Because Jamey already has dinner plans with someone else, so cannot have dinner with Pearl together."
+            ]
+        }
+    },
+    "0-1-0-1": {
+        "truth": {
+            "correct_answer": "Because Kaleen wants to politely decline without upsetting Poseidon over the choice of an expensive restaurant.",
+            "wrong_answers": [
+                "Because Kaleen already has something to do for this weekend, which makes it impossible to attend Poseidon's dinner invitation.",
+                "Because Kaleen strongly dislikes dining with Poseidon and wants to avoid spending any more time with him.",
+                "Because Kaleen has a prior engagement with a relative this weekend, preventing her from attending the dinner."
+            ]
+        }
+    },
+    "0-1-0-2": {
+        "truth": {
+            "correct_answer": "Because Cornell wants to politely decline without making Isobella feel bad about the restaurant choice.",
+            "wrong_answers": [
+                "Because Cornell already has something to do for this weekend.",
+                "Because Cornell dislikes eating out with Isobella and wants to avoid her.",
+                "Because Cornell needs to attend a family gathering this weekend."
+            ]
+        }
+    },
+    "0-2-0-0": {
+        "truth": {
+            "correct_answer": "Because Marvis wants to politely decline without offending Clair over her music taste.",
+            "wrong_answers": [
+                "Because Marvis has a dinner with friends tonight, so cannot attend the concert with Clair.",
+                "Because Marvis dislikes Clair's favorite band and doesn't want to listen to them.",
+                "Because Marvis received an unexpected work assignment to complete by tonight."
+            ]
+        }
+    },
+    "0-2-0-1": {
+        "truth": {
+            "correct_answer": "Because Marguerite wants to decline without making Arnetta feel bad about her music choice.",
+            "wrong_answers": [
+                "Because Marguerite has dinner reservation with a friend tonight after work, so cannot attend the concert with Arnetta.",
+                "Because Marguerite dislikes Arnetta and does not want to spend time with her music choice.",
+                "Because Marguerite needs to finish some work-related tasks tonight, so cannot attend the concert."
+            ]
+        }
+    },
+    "0-2-0-2": {
+        "truth": {
+            "correct_answer": "Because Angelik wanted to politely decline without making Berthal feel bad about the invitation to the classic rock show.",
+            "wrong_answers": [
+                "Because Angelik already has some plans and cannot attend the classic rock live show Berthal is inviting to tonight.",
+                "Because Angelik dislikes Berthal's music taste and doesn't want to attend the show with him.",
+                "Because Angelik has to work late tonight and cannot make it to the show."
+            ]
+        }
+    },
+    "0-3-0-0": {
+        "truth": {
+            "correct_answer": "Because Shavante wants to decline politely without making John feel bad about the hiking invitation.",
+            "wrong_answers": [
+                "Because Shavante needs to prepare for exams this weekend and cannot go hiking with John.",
+                "Because Shavante doesn't like John and doesn't want to spend time with his friends hiking.",
+                "Because Shavante has plans to attend a concert and cannot join the hike."
+            ]
+        }
+    },
+    "0-3-0-1": {
+        "truth": {
+            "correct_answer": "Because Vivian wants to politely decline without offending Tresia, who enjoys large social gatherings.",
+            "wrong_answers": [
+                "Because Vivian needs to prepare for exams this weekend, so can't go hiking.",
+                "Because Vivian is annoyed by Tresia's invitations and doesn't like spending time with her.",
+                "Because Vivian has a family event she must attend, so cannot go hiking."
+            ]
+        }
+    },
+    "0-3-0-2": {
+        "truth": {
+            "correct_answer": "Because Marquitta wants to decline politely without making Fabian feel bad about inviting her.",
+            "wrong_answers": [
+                "Because Marquitta needs to prepare for exams this weekend, so cannot go hiking with Fabian and his friends this Saturday.",
+                "Because Marquitta dislikes Fabian's friends and doesn't want to spend time with them.",
+                "Because Marquitta has a scheduled meeting with an academic advisor this Saturday."
+            ]
+        }
+    },
+    "0-4-0-0": {
+        "truth": {
+            "correct_answer": "Because Migdalia wants to decline politely without making Julita feel rejected.",
+            "wrong_answers": [
+                "Because Migdalia already has plans for tonight, so they cannot go shopping for Christmas gifts together with Julita tonight.",
+                "Because Migdalia dislikes shopping with Julita and prefers to avoid spending time with her.",
+                "Because Migdalia suddenly remembered a doctor's appointment tonight."
+            ]
+        }
+    },
+    "0-4-0-1": {
+        "truth": {
+            "correct_answer": "Because Reco wants to politely decline without making Kendall feel bad about the invitation.",
+            "wrong_answers": [
+                "Because Reco already has plans for tonight, so cannot go shopping with Kendall for Christmas gifts tonight.",
+                "Because Reco dislikes Kendall and doesn't want to spend time shopping with them.",
+                "Because Reco has to attend a last-minute work meeting, so cannot go shopping with Kendall tonight."
+            ]
+        }
+    },
+    "0-4-0-2": {
+        "truth": {
+            "correct_answer": "Because Ginger doesn't want to hurt Kristyna's feelings by declining the invitation directly.",
+            "wrong_answers": [
+                "Because Ginger already has plan for tonight and cannot join Kristyna for shopping tonight.",
+                "Because Ginger finds shopping with Kristyna annoying and wants to avoid it.",
+                "Because Ginger is meeting with another friend for dinner tonight."
+            ]
+        }
+    },
+    "0-4-1-0": {
+        "truth": {
+            "correct_answer": "Because Diamon wants to politely decline without making Robel feel uncomfortable about shopping together.",
+            "wrong_answers": [
+                "Because Diamon has been thinking about taking it easy tonight.",
+                "Because Diamon dislikes shopping with Robel and finds his company annoying.",
+                "Because Diamon needs to prepare for a family event happening soon."
+            ]
+        }
+    },
+    "0-4-1-1": {
+        "truth": {
+            "correct_answer": "Because Lorice wants to politely decline without making Nolin feel bad about the invitation.",
+            "wrong_answers": [
+                "Because Lorice has been thinking about taking it easy tonight, so cannot go shopping for clothes with Nolin together.",
+                "Because Lorice dislikes shopping with Nolin and doesn't want to spend time with him, so does not want to go shopping.",
+                "Because Lorice has to run personal errands this evening, so cannot go shopping with Nolin together."
+            ]
+        }
+    },
+    "0-4-1-2": {
+        "truth": {
+            "correct_answer": "Because Athene wants to decline politely without making Rayne feel bad about the shopping suggestion.",
+            "wrong_answers": [
+                "Because Athene has been thinking about taking it easy tonight, so cannot go shopping with Rayne.",
+                "Because Athene dislikes going shopping with Rayne and doesn't want to spend time with her doing so.",
+                "Because Athene has a prior commitment to attend a concert tonight, so cannot go shopping with Rayne."
+            ]
+        }
+    },
+    "0-4-2-0": {
+        "truth": {
+            "correct_answer": "Because Lucrezia wants to decline without making Andruw feel bad about his fashion taste.",
+            "wrong_answers": [
+                "Because Lucrezia and Princess will stay late at work tomorrow night.",
+                "Because Lucrezia and Princess are annoyed by Andruw's enthusiasm for shopping.",
+                "Because Lucrezia already has a prior commitment and cannot join the shopping trip."
+            ]
+        }
+    },
+    "0-4-2-1": {
+        "truth": {
+            "correct_answer": "Because Junia wants to politely decline without making Cordell feel bad about his fashion taste.",
+            "wrong_answers": [
+                "Because Junia and Akaylah will stay late at work tomorrow night.",
+                "Because Junia dislikes Cordell's style and does not want to shop with him.",
+                "Because Junia has to run an unexpected errand, so cannot shop with Cordell."
+            ]
+        }
+    },
+    "0-4-2-2": {
+        "truth": {
+            "correct_answer": "Because Harrel wants to avoid an awkward situation and politely decline without offending Alencia.",
+            "wrong_answers": [
+                "Because Harrel and Jamond will stay late at work tomorrow night, so they cannot go shopping with Alencia.",
+                "Because Harrel and Jamond dislike Alencia and do not want to spend time with her.",
+                "Because Harrel and Jamond have to attend a family gathering, so cannot go shopping."
+            ]
+        }
+    },
+    "0-4-3-0": {
+        "truth": {
+            "correct_answer": "Because Denishia wants to politely decline without making Shiela feel bad about her home decoration style.",
+            "wrong_answers": [
+                "Because Denishia and Alvin are tied up this weekend, so cannot go to Ikea with Shiela.",
+                "Because Denishia dislikes Shiela's taste in decoration and doesn't want to shop with her.",
+                "Because Denishia already has plans to visit a different store that weekend."
+            ]
+        }
+    },
+    "0-4-3-1": {
+        "truth": {
+            "correct_answer": "Because Valentine wants to spare Jule's feelings by not revealing their dislike for Jule's decoration style.",
+            "wrong_answers": [
+                "Because Valentine and Meylin are tied up this weekend, so cannot go with Jule to Ikea together.",
+                "Because Valentine has never liked Jule, so doesn't want to spend time with her.",
+                "Because Valentine has to take care of an unexpected family matter this weekend."
+            ]
+        }
+    },
+    "0-4-3-2": {
+        "truth": {
+            "correct_answer": "Because Adama wants to decline the invitation gracefully without offending Fleta.",
+            "wrong_answers": [
+                "Because Adama and Gwyndolyn are tied up this weekend, so they cannot go to Ikea with Fleta together.",
+                "Because Adama and Gwyndolyn dislike Fleta's decoration style and find her annoying.",
+                "Because Adama is attending a surprise party for a friend this weekend, so cannot go to Ikea with Fleta."
+            ]
+        }
+    },
+    "0-4-4-0": {
+        "truth": {
+            "correct_answer": "Because Baila wants to politely decline without making Radwan feel bad about preferring not to shop for luxury items.",
+            "wrong_answers": [
+                "Because Baila and Idella have got something going on this Friday night.",
+                "Because Baila dislikes Radwan and doesn't want to spend time with him shopping.",
+                "Because Baila has to attend a family event that Friday night."
+            ]
+        }
+    },
+    "0-4-4-1": {
+        "truth": {
+            "correct_answer": "Because Aitana wants to decline politely without making Essex feel bad about her shopping preference.",
+            "wrong_answers": [
+                "Because Aitana and Fransheska have got something going on this Friday night.",
+                "Because Aitana dislikes Essex and doesn't want to spend time shopping with her.",
+                "Because Aitana is planning to attend a music concert on Friday night."
+            ]
+        }
+    },
+    "0-4-4-2": {
+        "truth": {
+            "correct_answer": "Because Waymon wants to politely decline without making Nasiah feel bad about their shopping preferences.",
+            "wrong_answers": [
+                "Because Waymon and Taleena have got something going on this Friday night.",
+                "Because Waymon dislikes Nasiah's love for luxury brands and wants to avoid her.",
+                "Because Waymon is tired from a long work week and needs to rest on Friday night."
+            ]
+        }
+    },
+    "0-5-0-0": {
+        "truth": {
+            "correct_answer": "Because Alizae wants to politely decline without making Edsell feel bad about the road trip invitation.",
+            "wrong_answers": [
+                "Because Alizae will be busy with work that weekend, so cannot go on a road trip with Edsell.",
+                "Because Alizae dislikes Edsell and doesn't want to spend time with him, so do not want to join the road trip.",
+                "Because Alizae has a family commitment that weekend, so cannot go on a road trip with Edsell."
+            ]
+        }
+    },
+    "0-5-0-1": {
+        "truth": {
+            "correct_answer": "Because Floretta wants to decline politely without offending Charbel or causing any awkwardness.",
+            "wrong_answers": [
+                "Because Floretta will be busy with work that weekend, so cannot join Charbel on the road trip.",
+                "Because Floretta dislikes Charbel and doesn't want to spend time with him that weekend.",
+                "Because Floretta already has plans with another friend for that weekend."
+            ]
+        }
+    },
+    "0-5-0-2": {
+        "truth": {
+            "correct_answer": "Because Larkin wants to politely decline without making Terrie feel bad about proposing the road trip.",
+            "wrong_answers": [
+                "Because Larkin will be busy with work that weekend, so cannot go on a road trip with Terrie.",
+                "Because Larkin dislikes Terrie and doesn't want to spend the weekend with her, so do not want to go on a road trip with Terrie.",
+                "Because Larkin already has plans to visit family, so cannot go on a road trip with Terrie."
+            ]
+        }
+    },
+    "0-5-1-0": {
+        "truth": {
+            "correct_answer": "Because Cortrell wants to decline politely without making Janmichael feel bad about the accommodation preferences.",
+            "wrong_answers": [
+                "Because Cortrell already has plans for Easter break, so cannot go to Paris with Janmichael together.",
+                "Because Cortrell dislikes Janmichael and doesn't want to travel with him, so chooses not to go on the trip.",
+                "Because Cortrell has to attend a friend's wedding during the Easter break."
+            ]
+        }
+    },
+    "0-5-1-1": {
+        "truth": {
+            "correct_answer": "Because Lanett wants to politely decline without making Jeanine feel bad about differing travel budgets.",
+            "wrong_answers": [
+                "Because Lanett already has plans for Easter break, so cannot go to Paris with Jeanine.",
+                "Because Lanett dislikes Jeanine and doesn't want to travel with her, so declines the invitation.",
+                "Because Lanett has to house-sit for a friend during the Easter break, so cannot travel."
+            ]
+        }
+    },
+    "0-5-1-2": {
+        "truth": {
+            "correct_answer": "Because Karene wants to decline Attilio's invitation politely without discussing budget differences.",
+            "wrong_answers": [
+                "Because Karene already has plans for Easter break, so cannot go to Paris with Attilio together.",
+                "Because Karene dislikes traveling with Attilio and doesn't want to go to Paris with him.",
+                "Because Karene has to visit family during Easter, so cannot go to Paris with Attilio together."
+            ]
+        }
+    },
+    "0-5-2-0": {
+        "truth": {
+            "correct_answer": "Because Wesley wants to politely decline without making Dmoni feel bad about his fast-paced travel style.",
+            "wrong_answers": [
+                "Because Wesley already has plans for national holiday vacation and cannot go on a trip to Japan with Dmoni.",
+                "Because Wesley dislikes Japanese culture and food, so does not want to go to Japan with Dmoni.",
+                "Because Wesley is concerned about the costs and cannot afford the trip with Dmoni."
+            ]
+        }
+    },
+    "0-5-2-1": {
+        "truth": {
+            "correct_answer": "Because Leisel wants to decline politely without making Hillel feel bad about his travel style.",
+            "wrong_answers": [
+                "Because Leisel already has plans for national holiday vacation.",
+                "Because Leisel dislikes Hillel's travel style and finds it very annoying.",
+                "Because Leisel is planning to stay home and catch up on sleep during the holiday."
+            ]
+        }
+    },
+    "0-5-2-2": {
+        "truth": {
+            "correct_answer": "Because Madelyne wants to politely decline without making Kincaid feel bad about his travel plans.",
+            "wrong_answers": [
+                "Because Madelyne already has plans for national holiday vacation, so cannot go to Japan with Kincaid together for national holiday vacation.",
+                "Because Madelyne is annoyed by Kincaid's travel suggestions and doesn't want to spend time with him in Japan.",
+                "Because Madelyne has to look after her pet, so cannot go to Japan with Kincaid together."
+            ]
+        }
+    },
+    "0-5-3-0": {
+        "truth": {
+            "correct_answer": "Because Madelyne wants to decline politely without making Kincaid feel bad about their preference for friends over family.",
+            "wrong_answers": [
+                "Because Madelyne and Dee will need to work for the coming break and cannot join the trip to Morocco with Kincaid's family.",
+                "Because Madelyne dislikes Kincaid's family activities and prefers not to spend time with them in Morocco.",
+                "Because Madelyne has already booked an impromptu trip with friends during the same break."
+            ]
+        }
+    },
+    "0-5-3-1": {
+        "truth": {
+            "correct_answer": "Because Kieth wants to decline the invitation without disappointing Paxton.",
+            "wrong_answers": [
+                "Because Kieth and Royston will need to work for the coming break.",
+                "Because Kieth dislikes spending time with Paxton's family and would rather avoid them.",
+                "Because Kieth has to attend a relative's wedding during the break."
+            ]
+        }
+    },
+    "0-5-3-2": {
+        "truth": {
+            "correct_answer": "Because Maizley wants to decline politely, avoiding making Winfrey feel bad about preferring friends over family for trips.",
+            "wrong_answers": [
+                "Because Maizley and Lilibeth will need to work for the coming break, so cannot join the family trip to Morocco.",
+                "Because Maizley dislikes spending time with family and finds it annoying, so does not want to go to Morocco.",
+                "Because Maizley already has other vacation plans, so cannot join the family trip to Morocco."
+            ]
+        }
+    }
+}

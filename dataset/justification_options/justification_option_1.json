@@ -1,0 +1,92 @@
+{
+  "1-6-0-0": {
+    "truth": {
+      "correct_answer": "Because Mica and Kuba want Eugena to maintain their sense of childhood wonder and innocence.",
+      "wrong_answers": [
+        "Because Santa actually brought the gifts for Eugena, so they told her they were from Santa.",
+        "Because Mica doesn't like how Eugena reacts to not getting gifts from Santa.",
+        "Because Mica and Kuba were too busy to shop and used Santa as an excuse."
+      ]
+    }
+  },
+  "1-6-0-1": {
+    "truth": {
+      "correct_answer": "Because Natsuki and Kenniel want Rosary to keep the imagination and sense of innocence by believing in Santa.",
+      "wrong_answers": [
+        "Because Natsuki and Kenniel said the gifts were from Santa for Rosary.",
+        "Because Rosary was upset and disinterested in Christmas gifts, thinking the holidays were boring.",
+        "Because Natsuki and Kenniel forgot to buy specific gifts, so they blamed Santa for it."
+      ]
+    }
+  },
+  "1-6-0-2": {
+    "truth": {
+      "correct_answer": "Because Memory and Can want to keep Andrey's sense of innocence and wonder by believing in Santa.",
+      "wrong_answers": [
+        "Because the gifts were from Santa for Andrey, so Memory and Can gave them to him.",
+        "Because Memory dislikes shopping and prefers to attribute gifts to Santa instead of buying them herself.",
+        "Because Memory forgot to buy gifts on time and needed to use Santa as an excuse."
+      ]
+    }
+  },
+  "1-7-0-0": {
+    "truth": {
+      "correct_answer": "Because Evalina and Orvin want Duska to maintain imagination and innocence by believing in the Easter Duskaunny.",
+      "wrong_answers": [
+        "Because Evalina and Orvin said the Easter Duskaunny came during the night and left eggs for Duska.",
+        "Because Evalina is annoyed with Duska's questions about Easter traditions, especially during breakfast.",
+        "Because Evalina and Orvin accidentally forgot to hide extra eggs and need Duska to help them find them."
+      ]
+    }
+  },
+  "1-7-0-1": {
+    "truth": {
+      "correct_answer": "Because Alfonso and Nelva want Curt to enjoy the magic of Easter and believe in the bunny tradition.",
+      "wrong_answers": [
+        "Because Alfonso and Nelva said the Easter bunny came during the night and left eggs for Curt.",
+        "Because Alfonso and Nelva are irritated by Curt's questions about Easter traditions.",
+        "Because Alfonso and Nelva want Curt to exercise by running around the garden."
+      ]
+    }
+  },
+  "1-8-0-0": {
+    "truth": {
+      "correct_answer": "Because Dwayne and Evangelia want Esmeralda to maintain her childhood imagination and sense of innocence.",
+      "wrong_answers": [
+        "Because the tooth fairy actually came during the night and left a coin for Esmeralda under the pillow.",
+        "Because Dwayne is annoyed with companies marketing dental products to children and doesn't want to discuss it during breakfast.",
+        "Because Dwayne and Evangelia are planning a surprise birthday party, so they came up with the story to change the topic."
+      ]
+    }
+  },
+  "1-8-0-1": {
+    "truth": {
+      "correct_answer": "Because Kolbey and Marylynn want Britnee to maintain her sense of wonder and imagination by believing in the tooth fairy.",
+      "wrong_answers": [
+        "Because the tooth fairy really did come during the night and left a coin for Britnee.",
+        "Because Kolbey and Marylynn find the tooth fairy tradition annoying and want to stop it.",
+        "Because Kolbey and Marylynn forgot to set the table for breakfast, so had to make an excuse quickly."
+      ]
+    }
+  },
+  "1-9-0-0": {
+    "truth": {
+      "correct_answer": "Because Ivory and Janea want Aaqib to maintain his childhood imagination and sense of innocence.",
+      "wrong_answers": [
+        "Because there is actually a rabbit living on the moon making mooncakes for kids like Aaqib.",
+        "Because Ivory and Janea are annoyed by Aaqib's constant questions about the moon.",
+        "Because Ivory and Janea missed the mooncake-making show on TV."
+      ]
+    }
+  },
+  "1-9-0-1": {
+    "truth": {
+      "correct_answer": "Because Zephaniah and Nelson want Gregorio to maintain his imagination and sense of innocence.",
+      "wrong_answers": [
+        "Because there's a rabbit living on the moon making mooncakes, as Zephaniah told Gregorio.",
+        "Because Devine finds it annoying when Gregorio asks too many questions about the moon and its shadows.",
+        "Because Nelson is distracted thinking about the festival's busy itinerary, hence told Gregorio about the rabbit."
+      ]
+    }
+  }
+}
