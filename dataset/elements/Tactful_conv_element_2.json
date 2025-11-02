@@ -25,7 +25,7 @@
             "observer": "Tashawn"
         },
         "lie": {
-            "real_reason_c": "the child will be heartbroken if hearing that his/her grandpa passed away because the kid is raised by his/her grandpa",
+            "real_reason_c": "the child Lynn will be heartbroken if hearing that his/her grandpa passed away because the kid is raised by his/her grandpa",
             "lie_c": "parent Rayna and Skyla telling the young kid Lynn that Lynn's grandpa became a star in the sky who watches over them",
             "truth_c": "",
             "real_reason_q": "Lynn will be heartbroken if hearing that her grandpa passed away because Lynn is raised by her grandpa",
@@ -117,7 +117,7 @@
             "lie_c": "parent Rona and Mimi telling the young kid Camdyn that Camdyn's grandma has gone to live in another beautiful world",
             "truth_c": "",
             "real_reason_q": "Camdyn will be heartbroken if hearing that her grandma passed away because she is very close with her grandma",
-            "lie_q": "Rona and Mimi tell Camdyn that Camdyn's grandma has gone to live in another beautiful world",
+            "lie_q": "Camdyn's grandma has gone to live in another beautiful world",
             "truth_q": "",
             "falsification": null
         },
@@ -162,7 +162,7 @@
             "lie_c": "parent Raynard and Destinee telling the young kid Obie that Obie's grandma has gone to live in another beautiful world",
             "truth_c": "grandma will be cremated and buried",
             "real_reason_q": "Obie will be heartbroken if hearing that her grandma passed away because Obie is very close with her grandma",
-            "lie_q": "Raynard and Destinee tell Obie that Obie's grandma has gone to live in another beautiful world",
+            "lie_q": "Obie that Obie's grandma has gone to live in another beautiful world",
             "truth_q": "grandma will be cremated and buried",
             "falsification": true
         },
@@ -250,7 +250,7 @@
             "lie_c": "parent Jupiter and Jackie telling the young kid Catherine that the pet has gone to live on a big, happy farm in the countryside",
             "truth_c": "Petra just got a call that the missing pet is found already dead due to a car crush",
             "real_reason_q": "Catherine will be heartbroken if hearing that the pet has passed away or is lost forever",
-            "lie_q": "Jupiter and Jackie tell Catherine that the pet has gone to live on a big, happy farm in the countryside",
+            "lie_q": "the pet has gone to live on a big, happy farm in the countryside",
             "truth_q": "the missing pet is found already dead due to a car crush",
             "falsification": true
         },
@@ -336,7 +336,7 @@
             "lie_c": "parent Easter and Marleen telling the young kid Leora that the shadows on the wall are actually friendly night creatures who guide and protect him/her while sleeping",
             "truth_c": "",
             "real_reason_q": "Leora often feels scared and insecure about many things at night",
-            "lie_q": "Easter and Marleen Leora that the shadows on the wall are actually friendly night creatures who guide and protect him/her while sleeping",
+            "lie_q": "the shadows on the wall are actually friendly night creatures who guide and protect him/her while sleeping",
             "truth_q": "",
             "falsification": null
         },
@@ -381,7 +381,7 @@
             "lie_c": "parent Maggie and Rio telling the young kid Eldridge that the shadows on the wall are actually friendly night creatures who guide and protect him/her while sleeping",
             "truth_c": "the blackout curtains will block out the tree shadows from outside",
             "real_reason_q": "Eldridge often feels scared and insecure about many things at night",
-            "lie_q": "Maggie and Rio tell Eldridge that the shadows on the wall are actually friendly night creatures who guide and protect him/her while sleeping",
+            "lie_q": "the shadows on the wall are actually friendly night creatures who guide and protect him/her while sleeping",
             "truth_q": "the blackout curtains will block out the tree shadows from outside",
             "falsification": true
         },
@@ -423,7 +423,7 @@
             "real_reason_c": "The child Bertha will be heartbroken if hearing that the parents are not living together anymore, and may feel abandoned or think that their parents no longer love each other or even don’t love them anymore",
             "lie_c": "Parent Andrea and Edwina told the child that Jamesad needs to live closer to the office for a secret work project that he’s not allowed to talk about",
             "truth_c": "",
-            "real_reason_q": "the child Bertha will be heartbroken if hearing that the parents are not living together anymore",
+            "real_reason_q": "Bertha will be heartbroken if hearing that the parents are not living together anymore",
             "lie_q": "Jamesad is moving out for his work",
             "truth_q": "",
             "falsification": null
@@ -468,7 +468,7 @@
             "real_reason_c": "The child Raya will be heartbroken if hearing that the parents are not living together anymore, and may feel abandoned or think that their parents no longer love each other or even don’t love them anymore",
             "lie_c": "Parent Antwon and Beatriz told the child that Loraleiad needs to live closer to the office for a secret work project that he’s not allowed to talk about",
             "truth_c": "the parents are divorcing but haven't told the children about the divorce",
-            "real_reason_q": "the child Raya will be heartbroken if hearing that the parents are not living together anymore",
+            "real_reason_q": "Raya will be heartbroken if hearing that the parents are not living together anymore",
             "lie_q": "Loraleiad is moving out for his work",
             "truth_q": "the parents are divorcing",
             "falsification": true
@@ -511,7 +511,7 @@
             "real_reason_c": "the child Norene will be heartbroken if hearing that the pet has passed away or is lost forever",
             "lie_c": "Parent Homer and Danielle told the child Norene that they just got the message the pet was chosen by the Starlight Fairy to be her special companion in the enchanted forest, where all animals live forever young",
             "truth_c": "",
-            "real_reason_q": "the child Norene will be heartbroken if hearing that the pet has passed away or is lost forever",
+            "real_reason_q": "Norene will be heartbroken if hearing that the pet has passed away or is lost forever",
             "lie_q": "the pet became the Starlight Fairy's companion",
             "truth_q": "",
             "falsification": null
@@ -556,7 +556,7 @@
             "real_reason_c": "the child Jim will be heartbroken if hearing that the pet has passed away or is lost forever",
             "lie_c": "Parent Kalyn and Leroy told the child Jim that they just got the message the pet was chosen by the Starlight Fairy to be her special companion in the enchanted forest, where all animals live forever young",
             "truth_c": "Mitzi just got a call that the missing pet is found already dead due to a car crush",
-            "real_reason_q": "the child Jim will be heartbroken if hearing that the pet has passed away or is lost forever",
+            "real_reason_q": "Jim will be heartbroken if hearing that the pet has passed away or is lost forever",
             "lie_q": "the pet became the Starlight Fairy's companion",
             "truth_q": "the missing pet is found already dead due to a car crush",
             "falsification": true
@@ -599,7 +599,7 @@
             "real_reason_c": "the child Jim will be heartbroken if hearing that the pet has passed away or is lost forever",
             "lie_c": "Parent Kalyn and Leroy told the child Jim that they just got the message the pet was chosen by the Starlight Fairy to be her special companion in the enchanted forest, where all animals live forever young",
             "truth_c": "the pet has likely gone missing for good, and there is little chance it will be found or return home",
-            "real_reason_q": "the child Jim will be heartbroken if hearing that the pet has passed away or is lost forever",
+            "real_reason_q": "Jim will be heartbroken if hearing that the pet has passed away or is lost forever",
             "lie_q": "the pet became the Starlight Fairy's companion",
             "truth_q": "the pet probably won’t be found",
             "falsification": false

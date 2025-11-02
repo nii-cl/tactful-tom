@@ -433,7 +433,7 @@
                 "question_type": "justification:liar",
                 "correct_answer": "Because Natsuki and Kenniel want Rosary to keep the imagination and sense of innocence by believing in Santa.",
                 "wrong_answer": [
-                    "Because Natsuki and Kenniel said the gifts were from Santa for Rosary.",
+                    "Because the gifts were from Santa for Rosary.",
                     "Because Rosary was upset and disinterested in Christmas gifts, thinking the holidays were boring.",
                     "Because Natsuki and Kenniel forgot to buy specific gifts, so they blamed Santa for it."
                 ],
@@ -1685,7 +1685,7 @@
                 "question_type": "justification:liar",
                 "correct_answer": "Because Evalina and Orvin want Duska to maintain imagination and innocence by believing in the Easter Duskaunny.",
                 "wrong_answer": [
-                    "Because Evalina and Orvin said the Easter Duskaunny came during the night and left eggs for Duska.",
+                    "Because the Easter Duskaunny came during the night and left eggs.",
                     "Because Evalina is annoyed with Duska's questions about Easter traditions, especially during breakfast.",
                     "Because Evalina and Orvin accidentally forgot to hide extra eggs and need Duska to help them find them."
                 ],
