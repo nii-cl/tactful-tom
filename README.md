@@ -15,16 +15,6 @@ While recent studies explore Large Language Models' (LLMs) performance on Theory
 
 ![TactfulToM Overview](figures/page_one_figure.png)
 
-### Key Features
-
-- 🗣️ **Real-life Conversations**: Natural, multi-turn dialogues with authentic white lies
-- 🎭 **Information Asymmetry**: Carefully designed scenarios where different participants have access to different information
-- 🧠 **Multi-level ToM Reasoning**: Questions spanning white lie understanding, white lie reasoning, and belief tracking
-- 📊 **Diverse Categories**: Two main types of white lies:
-  - **Altruistic White Lies**: Lies told purely for the benefit of others, where the liar may incur some personal cost or disadvantage
-  - **Pareto White Lies**: Lies that create a mutually beneficial outcome, serving both the interests of the person being lied to and the liar themselves
-- ✅ **Human-in-the-Loop**: Generated through a rigorous multi-stage pipeline with human validation
-
 ## 📁 Repository Structure
 
 ```
@@ -47,6 +37,17 @@ tactful-tom-main/
 ```
 
 ## 📊 Dataset
+
+![TactfulToM Dataser](figures/main_figure.png)
+### Key Features
+
+- 🗣️ **Real-life Conversations**: Natural, multi-turn dialogues with authentic white lies
+- 🎭 **Information Asymmetry**: Carefully designed scenarios where different participants have access to different information
+- 🧠 **Multi-level ToM Reasoning**: Questions spanning white lie understanding, white lie reasoning, and belief tracking
+- 📊 **Diverse Categories**: Two main types of white lies:
+  - **Altruistic White Lies**: Lies told purely for the benefit of others, where the liar may incur some personal cost or disadvantage
+  - **Pareto White Lies**: Lies that create a mutually beneficial outcome, serving both the interests of the person being lied to and the liar themselves
+- ✅ **Human-in-the-Loop**: Generated through a rigorous multi-stage pipeline with human validation
 
 ### Statistics
 
