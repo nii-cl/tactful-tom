@@ -38,7 +38,7 @@ tactful-tom-main/
 
 ## 📊 Dataset
 
-![TactfulToM Dataser](figures/main_figure.png)
+![TactfulToM Dataset](figures/main_figure.jpg)
 ### Key Features
 
 - 🗣️ **Real-life Conversations**: Natural, multi-turn dialogues with authentic white lies
