@@ -11,25 +11,9 @@ We introduce **TactfulToM**, a novel benchmark evaluating LLMs' Theory of Mind a
 
 While recent studies explore Large Language Models' (LLMs) performance on Theory of Mind (ToM) reasoning tasks, research on ToM abilities that require more nuanced social context is limited, such as white lies. We introduce **TactfulToM**, a novel English benchmark designed to evaluate LLMs' ability to understand white lies within real-life conversations and reason about prosocial motivations behind them, particularly when they are used to spare others' feelings and maintain social harmony. Our benchmark is generated through a multi-stage human-in-the-loop pipeline where LLMs expand manually designed seed stories into conversations to maintain the information asymmetry between participants necessary for authentic white lies. We show that TactfulToM is challenging for state-of-the-art models, which perform substantially below humans, revealing shortcomings in their ability to fully comprehend the ToM reasoning that enables true understanding of white lies.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Evaluation](#evaluation)
-- [Results](#results)
-- [Citation](#citation)
-- [License](#license)
-- [Contact](#contact)
-
 ## 🎯 Overview
 
 ![TactfulToM Overview](figures/page_one_figure.png)
-
-### What is TactfulToM?
-
-**TactfulToM** is a comprehensive benchmark for evaluating Large Language Models' Theory of Mind (ToM) reasoning capabilities in the context of white lies - prosocial deceptions used to maintain social harmony and spare others' feelings.
 
 ### Key Features
 
@@ -40,6 +24,27 @@ While recent studies explore Large Language Models' (LLMs) performance on Theory
   - **Altruistic White Lies**: Lies told purely for the benefit of others, where the liar may incur some personal cost or disadvantage
   - **Pareto White Lies**: Lies that create a mutually beneficial outcome, serving both the interests of the person being lied to and the liar themselves
 - ✅ **Human-in-the-Loop**: Generated through a rigorous multi-stage pipeline with human validation
+
+## 📁 Repository Structure
+
+```
+tactful-tom-main/
+├── code/
+│   ├── evaluate_freeform.py              # Evaluation for short-answer questions
+│   ├── evaluate_non_freeform.py          # Evaluation for multiple-choice questions
+│   ├── question_generation.ipynb         # Question generation pipeline
+│   ├── question_generation_utils.py      # Question generation utilities
+│   ├── justification_option_generator.py # Generate justification options
+│   ├── replace_c_with_q_content.py       # Data cleaning utility
+│   └── utils.py                          # General utilities
+├── dataset/
+│   ├── elements/                         # Raw conversation elements
+│   ├── justification_options/            # Generated options
+│   └── final_set/                        # Complete dataset
+├── figures/                              # Result visualizations
+├── environment.yml                       # Conda environment
+└── README.md                            # This file
+```
 
 ## 📊 Dataset
 
@@ -99,10 +104,6 @@ Each conversation includes:
 
 ## 🚀 Installation
 
-### Prerequisites
-
-- Python 3.8+
-- pip or conda
 
 ### Setup
 
@@ -119,32 +120,7 @@ conda activate tactful-tom
 pip install -r requirements.txt
 ```
 
-### Dependencies
-
-Main dependencies include:
-- `torch>=2.0.0`
-- `transformers>=4.30.0`
-- `pandas>=1.5.0`
-- `openai>=1.0.0` (for GPT models)
-- `anthropic>=0.3.0` (for Claude models)
-
 ## 💻 Usage
-
-### Loading the Dataset
-
-```python
-import json
-
-# Load a specific dataset split
-with open('dataset/final_set/Tactful_conv_set_0.json', 'r') as f:
-    data = json.load(f)
-
-# Access conversation and questions
-conversation = data[0]
-print(f"Scenario: {conversation['set_id']}")
-print(f"Context: {conversation['full_context']}")
-print(f"Questions: {len(conversation['comprehensionQA'])} comprehension questions")
-```
 
 ### Running Evaluation
 
@@ -167,13 +143,7 @@ python code/evaluate_freeform.py \
 If you want to generate questions for new conversations:
 
 ```python
-from code.question_generation_utils import (
-    generate_comprehensionQA,
-    generate_justificationQA,
-    generate_fact_QA,
-    generate_1stbeliefQAs,
-    generate_2ndbeliefQAs
-)
+
 
 # Load your conversation data
 selected_set = {...}  # Your conversation data
@@ -207,27 +177,6 @@ success = process_single_conversation(
 )
 ```
 
-## 📁 Repository Structure
-
-```
-tactful-tom-main/
-├── code/
-│   ├── evaluate_freeform.py              # Evaluation for short-answer questions
-│   ├── evaluate_non_freeform.py          # Evaluation for multiple-choice questions
-│   ├── question_generation.ipynb         # Question generation pipeline
-│   ├── question_generation_utils.py      # Question generation utilities
-│   ├── justification_option_generator.py # Generate justification options
-│   ├── replace_c_with_q_content.py       # Data cleaning utility
-│   └── utils.py                          # General utilities
-├── dataset/
-│   ├── elements/                         # Raw conversation elements
-│   ├── justification_options/            # Generated options
-│   └── final_set/                        # Complete dataset
-├── figures/                              # Result visualizations
-├── environment.yml                       # Conda environment
-└── README.md                            # This file
-```
-
 ## 🤝 Contributing
 
 We welcome contributions! Please email us if you want to contribute to extend the dataset.
@@ -258,7 +207,14 @@ If you use TactfulToM in your research, please cite our paper:
     abstract = "While recent studies explore Large Language Models' (LLMs) performance on Theory of Mind (ToM) reasoning tasks, research on ToM abilities that require more nuanced social context is limited, such as white lies. We introduce TactfulToM, a novel English benchmark designed to evaluate LLMs' ability to understand white lies within real-life conversations and reason about prosocial motivations behind them, particularly when they are used to spare others' feelings and maintain social harmony. Our benchmark is generated through a multi-stage human-in-the-loop pipeline where LLMs expand manually designed seed stories into conversations to maintain the information asymmetry between participants necessary for authentic white lies. We show that TactfulToM is challenging for state-of-the-art models, which perform substantially below humans, revealing shortcomings in their ability to fully comprehend the ToM reasoning that enables true understanding of white lies."
 }
 ```
----
 
-**Note**: This benchmark is designed for research purposes. Please use responsibly and consider ethical implications when deploying models that reason about deception and social manipulation.
+## ⚠️ Important Notes
+
+**Intended Use**: This dataset is for research and evaluation purposes only.
+
+**Disclaimer**: Conversations were generated by GPT-4 and validated by humans. We are not claiming machines have minds or emotions—they need social reasoning capabilities to better understand human communication. While we've ensured content quality, generative models may produce unexpected outputs in freeform contexts.
+
+**Ethical Considerations**: Our evaluation reveals that LLMs underperform compared to humans in white lie understanding. This raises important questions: should LLMs understand white lies to interpret behavior, or also generate them? We encourage responsible use and careful consideration of whether aligning LLMs with human social behaviors, including prosocial deception, is desirable for human-AI interaction.
+
+---
 
