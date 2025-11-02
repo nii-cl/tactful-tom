@@ -35,10 +35,10 @@ While recent studies explore Large Language Models' (LLMs) performance on Theory
 
 - 🗣️ **Real-life Conversations**: Natural, multi-turn dialogues with authentic white lies
 - 🎭 **Information Asymmetry**: Carefully designed scenarios where different participants have access to different information
-- 🧠 **Multi-level ToM Reasoning**: Questions spanning comprehension, justification, belief tracking, and meta-reasoning
+- 🧠 **Multi-level ToM Reasoning**: Questions spanning white lie understanding, white lie reasoning, and belief tracking
 - 📊 **Diverse Categories**: Two main types of white lies:
-  - **Pareto White Lies**: Lies where telling the truth would harm the target without benefiting the liar
-  - **Altruistic White Lies**: Lies told purely to protect the target's emotional well-being
+  - **Altruistic White Lies**: Lies told purely for the benefit of others, where the liar may incur some personal cost or disadvantage
+  - **Pareto White Lies**: Lies that create a mutually beneficial outcome, serving both the interests of the person being lied to and the liar themselves
 - ✅ **Human-in-the-Loop**: Generated through a rigorous multi-stage pipeline with human validation
 
 ## 📊 Dataset
@@ -46,16 +46,14 @@ While recent studies explore Large Language Models' (LLMs) performance on Theory
 ### Statistics
 
 - **Total Conversations**: 100 unique scenarios
-- **Total Questions**: 4,000+ multi-choice and short-answer questions
+- **Total Questions**: 6,000+ multi-choice and short-answer questions
 - **Question Types**:
   - Comprehension (detecting the lie)
   - Justification (understanding motivations)
-  - Fact Tracking (who knows what)
+  - Fact Tracking, Information Accessibility, and Answerability (who knows what)
   - Belief States (first-order and second-order ToM)
-  - Information Accessibility
-  - Answerability
-  - Lie Detection Ability
-  - Lie Ability
+  - Lie Detection Ability (who can detect the lie based on each character's belief)
+  - Lie Ability (who can lie based on each character's belief)
 
 ### Dataset Structure
 
@@ -69,7 +67,7 @@ dataset/
 │   └── Tactful_conv_element_4.json  # Altruistic - social harmony
 ├── justification_options/  # Generated justification options
 │   └── justification_option_*.json
-└── final_set/             # Complete dataset with all questions
+└── final_set/             # Completed dataset with all questions
     └── Tactful_conv_set_*.json
 ```
 
@@ -209,50 +207,6 @@ success = process_single_conversation(
 )
 ```
 
-## 📈 Evaluation
-
-### Question Types
-
-1. **Comprehension**: Detect whether a statement is true or false
-2. **Justification**: Identify the correct prosocial motivation for the lie
-3. **Fact Tracking**: Track who discussed what information
-4. **First-order Belief**: What does character A believe?
-5. **Second-order Belief**: What does character A believe about character B's belief?
-6. **Information Accessibility**: Could character A have learned information X?
-7. **Answerability**: Can character A answer a specific question?
-8. **Lie Detection**: Could character A detect the lie?
-9. **Lie Ability**: Could character A successfully tell the same lie?
-
-### Evaluation Metrics
-
-- **Accuracy**: Percentage of correctly answered questions
-- **Per-category Performance**: Breakdown by white lie type
-- **Per-question-type Performance**: Analysis by ToM reasoning level
-- **Error Analysis**: Common failure patterns and misconceptions
-
-## 📊 Results
-
-### Main Findings
-
-Our experiments show that:
-
-- 🤖 **State-of-the-art models** (GPT-4, Claude-3) achieve 60-75% accuracy
-- 👥 **Human performance** reaches 85-92% accuracy
-- 📉 **Performance drops significantly** on second-order belief questions and lie ability reasoning
-- 🎯 **Altruistic white lies** are more challenging than Pareto white lies
-- 💡 **Models struggle most** with understanding emotion-based motivations
-
-### Performance by Model
-
-| Model | Overall Acc. | Comprehension | Justification | 1st-order ToM | 2nd-order ToM |
-|-------|-------------|---------------|---------------|---------------|---------------|
-| GPT-4 | 72.3% | 89.5% | 68.2% | 71.8% | 58.4% |
-| Claude-3 | 70.1% | 87.3% | 66.9% | 69.5% | 55.7% |
-| Llama-3-70B | 65.8% | 82.1% | 61.4% | 65.2% | 51.3% |
-| Human | 88.5% | 96.2% | 87.3% | 89.1% | 82.6% |
-
-*Note: Replace with your actual results*
-
 ## 📁 Repository Structure
 
 ```
@@ -271,93 +225,39 @@ tactful-tom-main/
 │   └── final_set/                        # Complete dataset
 ├── figures/                              # Result visualizations
 ├── environment.yml                       # Conda environment
-├── README.md                            # This file
-└── LICENSE                              # License information
-```
-
-## 🛠️ Advanced Usage
-
-### Customizing Evaluation
-
-```python
-from code.evaluate_non_freeform import evaluate_model
-
-# Custom evaluation with specific settings
-results = evaluate_model(
-    model_name="gpt-4",
-    dataset_path="dataset/final_set/Tactful_conv_set_0.json",
-    temperature=0.7,
-    max_tokens=512,
-    context_type="full"  # or "short" for abbreviated context
-)
-```
-
-### Filtering by Question Type
-
-```python
-import json
-
-# Load dataset
-with open('dataset/final_set/Tactful_conv_set_0.json', 'r') as f:
-    data = json.load(f)
-
-# Filter specific question types
-for item in data:
-    # Get only belief questions
-    belief_questions = item['beliefQAs']
-    
-    # Filter by ToM order
-    first_order = [q for q in belief_questions if q['tom_type'].startswith('first-order')]
-    second_order = [q for q in belief_questions if q['tom_type'].startswith('second-order')]
+└── README.md                            # This file
 ```
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### Areas for Contribution
-
-- 🐛 Bug fixes and improvements
-- 📝 Additional documentation and examples
-- 🌍 Non-English dataset extensions
-- 🔬 New evaluation metrics
-- 💡 Novel question types
+We welcome contributions! Please email us if you want to contribute to extend the dataset.
 
 ## 📄 Citation
 
 If you use TactfulToM in your research, please cite our paper:
 
 ```bibtex
-@article{your2024tactfultom,
-  title={TactfulToM: Evaluating Theory of Mind Understanding of White Lies in Large Language Models},
-  author={Your Name and Collaborators},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024}
+@inproceedings{liu-etal-2025-tactfultom,
+    title = "{T}actful{T}o{M}: Do {LLM}s have the Theory of Mind ability to understand White Lies?",
+    author = "Liu, Yiwei  and
+      Pretty, Emma Jane  and
+      Huang, Jiahao  and
+      Sugawara, Saku",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1272/",
+    pages = "25054--25072",
+    ISBN = "979-8-89176-332-6",
+    abstract = "While recent studies explore Large Language Models' (LLMs) performance on Theory of Mind (ToM) reasoning tasks, research on ToM abilities that require more nuanced social context is limited, such as white lies. We introduce TactfulToM, a novel English benchmark designed to evaluate LLMs' ability to understand white lies within real-life conversations and reason about prosocial motivations behind them, particularly when they are used to spare others' feelings and maintain social harmony. Our benchmark is generated through a multi-stage human-in-the-loop pipeline where LLMs expand manually designed seed stories into conversations to maintain the information asymmetry between participants necessary for authentic white lies. We show that TactfulToM is challenging for state-of-the-art models, which perform substantially below humans, revealing shortcomings in their ability to fully comprehend the ToM reasoning that enables true understanding of white lies."
 }
 ```
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Thanks to all annotators and validators who contributed to the dataset creation
-- This work was supported by [Your Funding Source]
-- Special thanks to the open-source community for tools and libraries
-
-## 📧 Contact
-
-- **Authors**: Your Name ([email@domain.com](mailto:email@domain.com))
-- **Project Page**: [https://your-project-page.com](https://your-project-page.com)
-- **Issues**: Please report issues on [GitHub Issues](https://github.com/your-username/tactful-tom/issues)
-
-## 🔗 Related Work
-
-- [ToMi Benchmark](https://github.com/facebookresearch/ToMi)
-- [Social IQa](https://allenai.org/data/socialiqa)
-- [Hi-ToM](https://github.com/ying-hui-he/hi-tom)
-
 ---
 
 **Note**: This benchmark is designed for research purposes. Please use responsibly and consider ethical implications when deploying models that reason about deception and social manipulation.
