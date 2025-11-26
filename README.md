@@ -1,7 +1,7 @@
 # TactfulToM: Evaluating Theory of Mind Understanding of White Lies in Large Language Models
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://aclanthology.org/2025.emnlp-main.1272/)
-[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg)](https://github.com/nii-cl/tactful-tom)
+[![Paper](https://img.shields.io/badge/Paper-EMNLP_2025-blue)](https://aclanthology.org/2025.emnlp-main.1272/)
+[![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/nii-cl/tactful-tom)
 
 ## TL;DR
 
