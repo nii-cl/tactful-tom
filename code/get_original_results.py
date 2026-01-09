@@ -16,9 +16,9 @@ class LLM:
         if "test" in llm_name:
             self.client = None
         elif "gpt" in llm_name or "o1" in llm_name or "o3" in llm_name:
-            self.client = OpenAI(api_key="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")
+            self.client = OpenAI(api_key="YOUR-TOKEN")
         else: 
-            self.client = OpenAI(api_key="VTPb47ZyaGObTYCSXlMYhaXjxEG3fm6C",base_url="https://api.deepinfra.com/v1/openai")
+            self.client = OpenAI(api_key="YOUR-TOKEN",base_url="https://api.deepinfra.com/v1/openai")
     
     def generate_single(self, single_input, llm_name):
         if not self.client:
